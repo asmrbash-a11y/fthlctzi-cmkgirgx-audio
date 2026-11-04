@@ -1,0 +1,12 @@
+{
+  "bg": "#15191b",
+  "ink": "#f3ead5",
+  "acc": "#d1ab68",
+  "seal": "#8c2732",
+  "mut": "#a99d88",
+  "font": "Tajawal",
+  "style": "documentary + paperCut + archival editorial",
+  "motion": ["slow parallax", "paper reveal", "document stamps", "word sync"],
+  "aspect": "9:16",
+  "director": "Shaaib Beshr"
+}

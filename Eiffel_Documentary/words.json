@@ -1,0 +1,4378 @@
+[
+  {
+    "word": "تخيّل",
+    "paragraph": 0,
+    "start": 0,
+    "end": 0.7,
+    "heard": "تخيل",
+    "similarity": 1.0
+  },
+  {
+    "word": "أن",
+    "paragraph": 0,
+    "start": 0.7,
+    "end": 1.0,
+    "heard": "أن",
+    "similarity": 1.0
+  },
+  {
+    "word": "تستيقظ",
+    "paragraph": 0,
+    "start": 1.0,
+    "end": 1.66,
+    "heard": "تستيقظ",
+    "similarity": 1.0
+  },
+  {
+    "word": "ذات",
+    "paragraph": 0,
+    "start": 1.66,
+    "end": 1.88,
+    "heard": "ذات",
+    "similarity": 1.0
+  },
+  {
+    "word": "صباح،",
+    "paragraph": 0,
+    "start": 1.88,
+    "end": 2.52,
+    "heard": "صباح",
+    "similarity": 1.0
+  },
+  {
+    "word": "وتكتشف",
+    "paragraph": 0,
+    "start": 2.52,
+    "end": 3.7,
+    "heard": "وتكتشف",
+    "similarity": 1.0
+  },
+  {
+    "word": "أن",
+    "paragraph": 0,
+    "start": 3.7,
+    "end": 3.92,
+    "heard": "أن",
+    "similarity": 1.0
+  },
+  {
+    "word": "برج",
+    "paragraph": 0,
+    "start": 3.92,
+    "end": 4.2,
+    "heard": "برج",
+    "similarity": 1.0
+  },
+  {
+    "word": "إيفل",
+    "paragraph": 0,
+    "start": 4.2,
+    "end": 4.68,
+    "heard": "إيفل",
+    "similarity": 1.0
+  },
+  {
+    "word": "الشهير",
+    "paragraph": 0,
+    "start": 4.68,
+    "end": 5.16,
+    "heard": "الشهير",
+    "similarity": 1.0
+  },
+  {
+    "word": "في",
+    "paragraph": 0,
+    "start": 5.16,
+    "end": 5.34,
+    "heard": "في",
+    "similarity": 1.0
+  },
+  {
+    "word": "باريس",
+    "paragraph": 0,
+    "start": 5.34,
+    "end": 5.9,
+    "heard": "باريس",
+    "similarity": 1.0
+  },
+  {
+    "word": "قد",
+    "paragraph": 0,
+    "start": 5.9,
+    "end": 6.58,
+    "heard": "قد",
+    "similarity": 1.0
+  },
+  {
+    "word": "تم",
+    "paragraph": 0,
+    "start": 6.58,
+    "end": 6.72,
+    "heard": "تم",
+    "similarity": 1.0
+  },
+  {
+    "word": "بيعه",
+    "paragraph": 0,
+    "start": 6.72,
+    "end": 7.38,
+    "heard": "بيعه",
+    "similarity": 1.0
+  },
+  {
+    "word": "بالكامل",
+    "paragraph": 0,
+    "start": 7.38,
+    "end": 8.34,
+    "heard": "بالكامل",
+    "similarity": 1.0
+  },
+  {
+    "word": "إلى",
+    "paragraph": 0,
+    "start": 8.34,
+    "end": 8.68,
+    "heard": "إلى",
+    "similarity": 1.0
+  },
+  {
+    "word": "رجل",
+    "paragraph": 0,
+    "start": 8.68,
+    "end": 9.06,
+    "heard": "رجل",
+    "similarity": 1.0
+  },
+  {
+    "word": "أعمال!",
+    "paragraph": 0,
+    "start": 9.06,
+    "end": 9.64,
+    "heard": "أعمال.",
+    "similarity": 1.0
+  },
+  {
+    "word": "والأغرب",
+    "paragraph": 0,
+    "start": 9.86,
+    "end": 10.72,
+    "heard": "والأغرب",
+    "similarity": 1.0
+  },
+  {
+    "word": "من",
+    "paragraph": 0,
+    "start": 10.72,
+    "end": 10.92,
+    "heard": "من",
+    "similarity": 1.0
+  },
+  {
+    "word": "ذلك",
+    "paragraph": 0,
+    "start": 10.92,
+    "end": 11.34,
+    "heard": "ذلك",
+    "similarity": 1.0
+  },
+  {
+    "word": "أن",
+    "paragraph": 0,
+    "start": 11.34,
+    "end": 11.92,
+    "heard": "أن",
+    "similarity": 1.0
+  },
+  {
+    "word": "البائع",
+    "paragraph": 0,
+    "start": 11.92,
+    "end": 12.44,
+    "heard": "البائعة",
+    "similarity": 0.923
+  },
+  {
+    "word": "لم",
+    "paragraph": 0,
+    "start": 12.44,
+    "end": 12.62,
+    "heard": "لم",
+    "similarity": 1.0
+  },
+  {
+    "word": "يكن",
+    "paragraph": 0,
+    "start": 12.62,
+    "end": 12.98,
+    "heard": "يكن",
+    "similarity": 1.0
+  },
+  {
+    "word": "يملك",
+    "paragraph": 0,
+    "start": 12.98,
+    "end": 13.32,
+    "heard": "يملك",
+    "similarity": 1.0
+  },
+  {
+    "word": "البرج،",
+    "paragraph": 0,
+    "start": 13.32,
+    "end": 13.82,
+    "heard": "البرج",
+    "similarity": 1.0
+  },
+  {
+    "word": "ولم",
+    "paragraph": 0,
+    "start": 13.82,
+    "end": 14.36,
+    "heard": "ولم",
+    "similarity": 1.0
+  },
+  {
+    "word": "يكن",
+    "paragraph": 0,
+    "start": 14.36,
+    "end": 14.62,
+    "heard": "يكن",
+    "similarity": 1.0
+  },
+  {
+    "word": "مسؤولاً",
+    "paragraph": 0,
+    "start": 14.62,
+    "end": 15.08,
+    "heard": "مسؤولا",
+    "similarity": 1.0
+  },
+  {
+    "word": "حكومياً،",
+    "paragraph": 0,
+    "start": 15.08,
+    "end": 15.66,
+    "heard": "حكوميا",
+    "similarity": 1.0
+  },
+  {
+    "word": "بل",
+    "paragraph": 0,
+    "start": 15.66,
+    "end": 16.42,
+    "heard": "بل",
+    "similarity": 1.0
+  },
+  {
+    "word": "كان",
+    "paragraph": 0,
+    "start": 16.42,
+    "end": 16.74,
+    "heard": "كان",
+    "similarity": 1.0
+  },
+  {
+    "word": "مجرد",
+    "paragraph": 0,
+    "start": 16.74,
+    "end": 17.44,
+    "heard": "مجرد",
+    "similarity": 1.0
+  },
+  {
+    "word": "محتال",
+    "paragraph": 0,
+    "start": 17.44,
+    "end": 18.0,
+    "heard": "محتال",
+    "similarity": 1.0
+  },
+  {
+    "word": "بارع!",
+    "paragraph": 0,
+    "start": 18.0,
+    "end": 18.58,
+    "heard": "بارع.",
+    "similarity": 1.0
+  },
+  {
+    "word": "هذه",
+    "paragraph": 1,
+    "start": 19.1,
+    "end": 19.6,
+    "heard": "هذه",
+    "similarity": 1.0
+  },
+  {
+    "word": "ليست",
+    "paragraph": 1,
+    "start": 19.6,
+    "end": 20.14,
+    "heard": "ليست",
+    "similarity": 1.0
+  },
+  {
+    "word": "قصة",
+    "paragraph": 1,
+    "start": 20.14,
+    "end": 20.52,
+    "heard": "قصة",
+    "similarity": 1.0
+  },
+  {
+    "word": "خيالية،",
+    "paragraph": 1,
+    "start": 20.52,
+    "end": 21.3,
+    "heard": "خيالية",
+    "similarity": 1.0
+  },
+  {
+    "word": "بل",
+    "paragraph": 1,
+    "start": 21.3,
+    "end": 22.1,
+    "heard": "بل",
+    "similarity": 1.0
+  },
+  {
+    "word": "واحدة",
+    "paragraph": 1,
+    "start": 22.1,
+    "end": 22.72,
+    "heard": "واحدة",
+    "similarity": 1.0
+  },
+  {
+    "word": "من",
+    "paragraph": 1,
+    "start": 22.72,
+    "end": 23.38,
+    "heard": "من",
+    "similarity": 1.0
+  },
+  {
+    "word": "أشهر",
+    "paragraph": 1,
+    "start": 23.38,
+    "end": 23.9,
+    "heard": "أشهر",
+    "similarity": 1.0
+  },
+  {
+    "word": "عمليات",
+    "paragraph": 1,
+    "start": 23.9,
+    "end": 24.56,
+    "heard": "عمليات",
+    "similarity": 1.0
+  },
+  {
+    "word": "الاحتيال",
+    "paragraph": 1,
+    "start": 24.56,
+    "end": 25.06,
+    "heard": "الاحتيال",
+    "similarity": 1.0
+  },
+  {
+    "word": "في",
+    "paragraph": 1,
+    "start": 25.06,
+    "end": 25.22,
+    "heard": "في",
+    "similarity": 1.0
+  },
+  {
+    "word": "التاريخ.",
+    "paragraph": 1,
+    "start": 25.22,
+    "end": 25.9,
+    "heard": "التاريخ.",
+    "similarity": 1.0
+  },
+  {
+    "word": "في",
+    "paragraph": 2,
+    "start": 25.9,
+    "end": 26.76,
+    "heard": "في",
+    "similarity": 1.0
+  },
+  {
+    "word": "عام",
+    "paragraph": 2,
+    "start": 26.76,
+    "end": 27.02,
+    "heard": "عام",
+    "similarity": 1.0
+  },
+  {
+    "word": "1925،",
+    "paragraph": 2,
+    "start": 27.02,
+    "end": 28.7,
+    "heard": "1925",
+    "similarity": 1.0
+  },
+  {
+    "word": "ظهر",
+    "paragraph": 2,
+    "start": 28.7,
+    "end": 30.24,
+    "heard": "ظهر",
+    "similarity": 1.0
+  },
+  {
+    "word": "رجل",
+    "paragraph": 2,
+    "start": 30.24,
+    "end": 30.6,
+    "heard": "رجل",
+    "similarity": 1.0
+  },
+  {
+    "word": "يُدعى",
+    "paragraph": 2,
+    "start": 30.6,
+    "end": 31.32,
+    "heard": "ندعى",
+    "similarity": 0.75
+  },
+  {
+    "word": "فيكتور",
+    "paragraph": 2,
+    "start": 31.32,
+    "end": 31.66,
+    "heard": "بيكتور",
+    "similarity": 0.833
+  },
+  {
+    "word": "لوستيغ،",
+    "paragraph": 2,
+    "start": 31.66,
+    "end": 32.16,
+    "heard": "لستيك",
+    "similarity": 0.727
+  },
+  {
+    "word": "وهو",
+    "paragraph": 2,
+    "start": 32.16,
+    "end": 33.0,
+    "heard": "وهو",
+    "similarity": 1.0
+  },
+  {
+    "word": "محتال",
+    "paragraph": 2,
+    "start": 33.0,
+    "end": 33.44,
+    "heard": "محتال",
+    "similarity": 1.0
+  },
+  {
+    "word": "ذكي",
+    "paragraph": 2,
+    "start": 33.44,
+    "end": 34.2,
+    "heard": "ذكي",
+    "similarity": 1.0
+  },
+  {
+    "word": "اشتهر",
+    "paragraph": 2,
+    "start": 34.2,
+    "end": 34.78,
+    "heard": "اشتهر",
+    "similarity": 1.0
+  },
+  {
+    "word": "بقدرته",
+    "paragraph": 2,
+    "start": 34.78,
+    "end": 35.52,
+    "heard": "بقدرته",
+    "similarity": 1.0
+  },
+  {
+    "word": "المذهلة",
+    "paragraph": 2,
+    "start": 35.52,
+    "end": 36.02,
+    "heard": "المذهل",
+    "similarity": 0.923
+  },
+  {
+    "word": "على",
+    "paragraph": 2,
+    "start": 36.02,
+    "end": 36.22,
+    "heard": "على",
+    "similarity": 1.0
+  },
+  {
+    "word": "إقناع",
+    "paragraph": 2,
+    "start": 36.22,
+    "end": 36.72,
+    "heard": "اقناع",
+    "similarity": 1.0
+  },
+  {
+    "word": "الناس",
+    "paragraph": 2,
+    "start": 36.72,
+    "end": 37.34,
+    "heard": "الناس",
+    "similarity": 1.0
+  },
+  {
+    "word": "وتصديقهم",
+    "paragraph": 2,
+    "start": 37.34,
+    "end": 38.3,
+    "heard": "وتصديقهم",
+    "similarity": 1.0
+  },
+  {
+    "word": "لأكاذيبه.",
+    "paragraph": 2,
+    "start": 38.3,
+    "end": 39.14,
+    "heard": "لأكاذيبه",
+    "similarity": 1.0
+  },
+  {
+    "word": "كان",
+    "paragraph": 3,
+    "start": 39.14,
+    "end": 40.3,
+    "heard": "كان",
+    "similarity": 1.0
+  },
+  {
+    "word": "لوستيغ",
+    "paragraph": 3,
+    "start": 40.3,
+    "end": 40.82,
+    "heard": "لستيك",
+    "similarity": 0.727
+  },
+  {
+    "word": "يتابع",
+    "paragraph": 3,
+    "start": 40.82,
+    "end": 41.26,
+    "heard": "يتابع",
+    "similarity": 1.0
+  },
+  {
+    "word": "الأخبار",
+    "paragraph": 3,
+    "start": 41.26,
+    "end": 41.68,
+    "heard": "الأخبار",
+    "similarity": 1.0
+  },
+  {
+    "word": "بعناية،",
+    "paragraph": 3,
+    "start": 41.68,
+    "end": 42.26,
+    "heard": "بعناية",
+    "similarity": 1.0
+  },
+  {
+    "word": "ولاحظ",
+    "paragraph": 3,
+    "start": 42.46,
+    "end": 43.32,
+    "heard": "ولاحظ",
+    "similarity": 1.0
+  },
+  {
+    "word": "أن",
+    "paragraph": 3,
+    "start": 43.32,
+    "end": 43.5,
+    "heard": "أن",
+    "similarity": 1.0
+  },
+  {
+    "word": "برج",
+    "paragraph": 3,
+    "start": 43.5,
+    "end": 43.72,
+    "heard": "",
+    "similarity": 0
+  },
+  {
+    "word": "إيفل",
+    "paragraph": 3,
+    "start": 43.72,
+    "end": 44.42,
+    "heard": "برجائيفل",
+    "similarity": 0.667
+  },
+  {
+    "word": "أصبح",
+    "paragraph": 3,
+    "start": 44.42,
+    "end": 44.8,
+    "heard": "أصبح",
+    "similarity": 1.0
+  },
+  {
+    "word": "موضوعاً",
+    "paragraph": 3,
+    "start": 44.8,
+    "end": 45.38,
+    "heard": "موضوعا",
+    "similarity": 1.0
+  },
+  {
+    "word": "للانتقادات",
+    "paragraph": 3,
+    "start": 45.38,
+    "end": 46.26,
+    "heard": "للانتقادات",
+    "similarity": 1.0
+  },
+  {
+    "word": "بسبب",
+    "paragraph": 3,
+    "start": 46.26,
+    "end": 46.92,
+    "heard": "بسبب",
+    "similarity": 1.0
+  },
+  {
+    "word": "تكاليف",
+    "paragraph": 3,
+    "start": 46.92,
+    "end": 47.4,
+    "heard": "تكاليف",
+    "similarity": 1.0
+  },
+  {
+    "word": "صيانته",
+    "paragraph": 3,
+    "start": 47.4,
+    "end": 48.0,
+    "heard": "صياناته",
+    "similarity": 0.923
+  },
+  {
+    "word": "المرتفعة.",
+    "paragraph": 3,
+    "start": 48.0,
+    "end": 48.6,
+    "heard": "المرتفعة",
+    "similarity": 1.0
+  },
+  {
+    "word": "فبدأ",
+    "paragraph": 3,
+    "start": 48.6,
+    "end": 49.74,
+    "heard": "فبدأ",
+    "similarity": 1.0
+  },
+  {
+    "word": "يفكر",
+    "paragraph": 3,
+    "start": 49.74,
+    "end": 50.16,
+    "heard": "يفكر",
+    "similarity": 1.0
+  },
+  {
+    "word": "في",
+    "paragraph": 3,
+    "start": 50.16,
+    "end": 50.4,
+    "heard": "في",
+    "similarity": 1.0
+  },
+  {
+    "word": "خطة",
+    "paragraph": 3,
+    "start": 50.4,
+    "end": 50.96,
+    "heard": "خطة",
+    "similarity": 1.0
+  },
+  {
+    "word": "لم",
+    "paragraph": 3,
+    "start": 50.96,
+    "end": 51.6,
+    "heard": "لم",
+    "similarity": 1.0
+  },
+  {
+    "word": "تخطر",
+    "paragraph": 3,
+    "start": 51.6,
+    "end": 52.24,
+    "heard": "تخطر",
+    "similarity": 1.0
+  },
+  {
+    "word": "على",
+    "paragraph": 3,
+    "start": 52.24,
+    "end": 52.46,
+    "heard": "على",
+    "similarity": 1.0
+  },
+  {
+    "word": "بال",
+    "paragraph": 3,
+    "start": 52.46,
+    "end": 52.88,
+    "heard": "بالي",
+    "similarity": 0.857
+  },
+  {
+    "word": "أحد.",
+    "paragraph": 3,
+    "start": 52.88,
+    "end": 53.26,
+    "heard": "أحد",
+    "similarity": 1.0
+  },
+  {
+    "word": "قرر",
+    "paragraph": 4,
+    "start": 53.26,
+    "end": 54.5,
+    "heard": "قرر",
+    "similarity": 1.0
+  },
+  {
+    "word": "أن",
+    "paragraph": 4,
+    "start": 54.5,
+    "end": 54.78,
+    "heard": "أن",
+    "similarity": 1.0
+  },
+  {
+    "word": "يبيع",
+    "paragraph": 4,
+    "start": 54.78,
+    "end": 55.3,
+    "heard": "يبيع",
+    "similarity": 1.0
+  },
+  {
+    "word": "برج",
+    "paragraph": 4,
+    "start": 55.3,
+    "end": 55.86,
+    "heard": "برجائف",
+    "similarity": 0.667
+  },
+  {
+    "word": "إيفل!",
+    "paragraph": 4,
+    "start": 55.86,
+    "end": 56.08,
+    "heard": "",
+    "similarity": 0
+  },
+  {
+    "word": "لكن",
+    "paragraph": 5,
+    "start": 56.08,
+    "end": 57.04,
+    "heard": "لكن",
+    "similarity": 1.0
+  },
+  {
+    "word": "كيف",
+    "paragraph": 5,
+    "start": 57.04,
+    "end": 58.1,
+    "heard": "كيف",
+    "similarity": 1.0
+  },
+  {
+    "word": "يمكن",
+    "paragraph": 5,
+    "start": 58.1,
+    "end": 58.5,
+    "heard": "يمكن",
+    "similarity": 1.0
+  },
+  {
+    "word": "لرجل",
+    "paragraph": 5,
+    "start": 58.5,
+    "end": 59.1,
+    "heard": "لرجل",
+    "similarity": 1.0
+  },
+  {
+    "word": "أن",
+    "paragraph": 5,
+    "start": 59.1,
+    "end": 59.38,
+    "heard": "أن",
+    "similarity": 1.0
+  },
+  {
+    "word": "يبيع",
+    "paragraph": 5,
+    "start": 59.38,
+    "end": 59.78,
+    "heard": "يبيع",
+    "similarity": 1.0
+  },
+  {
+    "word": "معلماً",
+    "paragraph": 5,
+    "start": 59.78,
+    "end": 60.28,
+    "heard": "معلماً",
+    "similarity": 1.0
+  },
+  {
+    "word": "شهيراً",
+    "paragraph": 5,
+    "start": 60.28,
+    "end": 61.12,
+    "heard": "شهيراً",
+    "similarity": 1.0
+  },
+  {
+    "word": "لا",
+    "paragraph": 5,
+    "start": 61.12,
+    "end": 61.48,
+    "heard": "لا",
+    "similarity": 1.0
+  },
+  {
+    "word": "يملكه؟",
+    "paragraph": 5,
+    "start": 61.48,
+    "end": 62.28,
+    "heard": "يملكه",
+    "similarity": 1.0
+  },
+  {
+    "word": "بدأ",
+    "paragraph": 6,
+    "start": 62.28,
+    "end": 63.14,
+    "heard": "بدأ",
+    "similarity": 1.0
+  },
+  {
+    "word": "لوستيغ",
+    "paragraph": 6,
+    "start": 63.14,
+    "end": 63.76,
+    "heard": "لستقب",
+    "similarity": 0.545
+  },
+  {
+    "word": "بتنفيذ",
+    "paragraph": 6,
+    "start": 63.76,
+    "end": 64.24,
+    "heard": "تنفيذ",
+    "similarity": 0.909
+  },
+  {
+    "word": "خطته.",
+    "paragraph": 6,
+    "start": 64.24,
+    "end": 64.88,
+    "heard": "خطته",
+    "similarity": 1.0
+  },
+  {
+    "word": "جهّز",
+    "paragraph": 6,
+    "start": 64.88,
+    "end": 66.1,
+    "heard": "جهز",
+    "similarity": 1.0
+  },
+  {
+    "word": "وثائق",
+    "paragraph": 6,
+    "start": 66.1,
+    "end": 66.68,
+    "heard": "وثائق",
+    "similarity": 1.0
+  },
+  {
+    "word": "مزيفة،",
+    "paragraph": 6,
+    "start": 66.68,
+    "end": 67.26,
+    "heard": "مزيفة",
+    "similarity": 1.0
+  },
+  {
+    "word": "وانتحل",
+    "paragraph": 6,
+    "start": 67.76,
+    "end": 68.26,
+    "heard": "وانتح",
+    "similarity": 0.909
+  },
+  {
+    "word": "صفة",
+    "paragraph": 6,
+    "start": 68.26,
+    "end": 68.8,
+    "heard": "لصفة",
+    "similarity": 0.857
+  },
+  {
+    "word": "مسؤول",
+    "paragraph": 6,
+    "start": 68.8,
+    "end": 69.32,
+    "heard": "مسؤول",
+    "similarity": 1.0
+  },
+  {
+    "word": "حكومي",
+    "paragraph": 6,
+    "start": 69.32,
+    "end": 69.92,
+    "heard": "حكومي",
+    "similarity": 1.0
+  },
+  {
+    "word": "فرنسي،",
+    "paragraph": 6,
+    "start": 69.92,
+    "end": 70.62,
+    "heard": "فرنسي",
+    "similarity": 1.0
+  },
+  {
+    "word": "ثم",
+    "paragraph": 6,
+    "start": 70.62,
+    "end": 71.48,
+    "heard": "ثم",
+    "similarity": 1.0
+  },
+  {
+    "word": "أرسل",
+    "paragraph": 6,
+    "start": 71.48,
+    "end": 71.96,
+    "heard": "أرسل",
+    "similarity": 1.0
+  },
+  {
+    "word": "دعوات",
+    "paragraph": 6,
+    "start": 71.96,
+    "end": 72.58,
+    "heard": "دعوات",
+    "similarity": 1.0
+  },
+  {
+    "word": "سرية",
+    "paragraph": 6,
+    "start": 72.58,
+    "end": 73.48,
+    "heard": "سرية",
+    "similarity": 1.0
+  },
+  {
+    "word": "إلى",
+    "paragraph": 6,
+    "start": 73.48,
+    "end": 73.8,
+    "heard": "إلى",
+    "similarity": 1.0
+  },
+  {
+    "word": "مجموعة",
+    "paragraph": 6,
+    "start": 73.8,
+    "end": 74.44,
+    "heard": "مجموعة",
+    "similarity": 1.0
+  },
+  {
+    "word": "من",
+    "paragraph": 6,
+    "start": 74.44,
+    "end": 74.66,
+    "heard": "من",
+    "similarity": 1.0
+  },
+  {
+    "word": "كبار",
+    "paragraph": 6,
+    "start": 74.66,
+    "end": 75.1,
+    "heard": "كبار",
+    "similarity": 1.0
+  },
+  {
+    "word": "تجار",
+    "paragraph": 6,
+    "start": 75.1,
+    "end": 75.62,
+    "heard": "تجار",
+    "similarity": 1.0
+  },
+  {
+    "word": "المعادن",
+    "paragraph": 6,
+    "start": 75.62,
+    "end": 76.22,
+    "heard": "المعادن",
+    "similarity": 1.0
+  },
+  {
+    "word": "والخردة",
+    "paragraph": 6,
+    "start": 76.22,
+    "end": 76.78,
+    "heard": "والخردة",
+    "similarity": 1.0
+  },
+  {
+    "word": "في",
+    "paragraph": 6,
+    "start": 76.78,
+    "end": 76.94,
+    "heard": "في",
+    "similarity": 1.0
+  },
+  {
+    "word": "باريس.",
+    "paragraph": 6,
+    "start": 76.94,
+    "end": 77.44,
+    "heard": "باريس",
+    "similarity": 1.0
+  },
+  {
+    "word": "طلب",
+    "paragraph": 7,
+    "start": 77.44,
+    "end": 78.48,
+    "heard": "طلب",
+    "similarity": 1.0
+  },
+  {
+    "word": "منهم",
+    "paragraph": 7,
+    "start": 78.48,
+    "end": 78.84,
+    "heard": "منهم",
+    "similarity": 1.0
+  },
+  {
+    "word": "الاجتماع",
+    "paragraph": 7,
+    "start": 78.84,
+    "end": 79.48,
+    "heard": "الاجتماع",
+    "similarity": 1.0
+  },
+  {
+    "word": "في",
+    "paragraph": 7,
+    "start": 79.48,
+    "end": 79.64,
+    "heard": "في",
+    "similarity": 1.0
+  },
+  {
+    "word": "فندق",
+    "paragraph": 7,
+    "start": 79.64,
+    "end": 80.04,
+    "heard": "فندق",
+    "similarity": 1.0
+  },
+  {
+    "word": "كريون",
+    "paragraph": 7,
+    "start": 80.04,
+    "end": 80.54,
+    "heard": "كريون",
+    "similarity": 1.0
+  },
+  {
+    "word": "الفخم،",
+    "paragraph": 7,
+    "start": 80.54,
+    "end": 81.12,
+    "heard": "الفخم",
+    "similarity": 1.0
+  },
+  {
+    "word": "أحد",
+    "paragraph": 7,
+    "start": 81.12,
+    "end": 81.9,
+    "heard": "أحد",
+    "similarity": 1.0
+  },
+  {
+    "word": "أشهر",
+    "paragraph": 7,
+    "start": 81.9,
+    "end": 82.46,
+    "heard": "أشهر",
+    "similarity": 1.0
+  },
+  {
+    "word": "فنادق",
+    "paragraph": 7,
+    "start": 82.46,
+    "end": 83.0,
+    "heard": "فنادق",
+    "similarity": 1.0
+  },
+  {
+    "word": "العاصمة",
+    "paragraph": 7,
+    "start": 83.0,
+    "end": 83.54,
+    "heard": "العاصمة",
+    "similarity": 1.0
+  },
+  {
+    "word": "الفرنسية.",
+    "paragraph": 7,
+    "start": 83.54,
+    "end": 84.32,
+    "heard": "الفرنسية",
+    "similarity": 1.0
+  },
+  {
+    "word": "عندما",
+    "paragraph": 8,
+    "start": 84.32,
+    "end": 85.56,
+    "heard": "عندما",
+    "similarity": 1.0
+  },
+  {
+    "word": "وصل",
+    "paragraph": 8,
+    "start": 85.56,
+    "end": 86.02,
+    "heard": "وصلت",
+    "similarity": 0.857
+  },
+  {
+    "word": "التجار،",
+    "paragraph": 8,
+    "start": 86.02,
+    "end": 86.52,
+    "heard": "تجهر",
+    "similarity": 0.6
+  },
+  {
+    "word": "استقبلهم",
+    "paragraph": 8,
+    "start": 86.52,
+    "end": 87.58,
+    "heard": "استقبلهم",
+    "similarity": 1.0
+  },
+  {
+    "word": "لوستيغ",
+    "paragraph": 8,
+    "start": 87.58,
+    "end": 88.08,
+    "heard": "لوستيك",
+    "similarity": 0.833
+  },
+  {
+    "word": "بصفته",
+    "paragraph": 8,
+    "start": 88.08,
+    "end": 88.7,
+    "heard": "بصفته",
+    "similarity": 1.0
+  },
+  {
+    "word": "مسؤولاً",
+    "paragraph": 8,
+    "start": 88.7,
+    "end": 89.32,
+    "heard": "مسؤولا",
+    "similarity": 1.0
+  },
+  {
+    "word": "حكومياً",
+    "paragraph": 8,
+    "start": 89.32,
+    "end": 89.92,
+    "heard": "حكوميا",
+    "similarity": 1.0
+  },
+  {
+    "word": "رفيع",
+    "paragraph": 8,
+    "start": 89.92,
+    "end": 90.32,
+    "heard": "رفيع",
+    "similarity": 1.0
+  },
+  {
+    "word": "المستوى،",
+    "paragraph": 8,
+    "start": 90.32,
+    "end": 91.24,
+    "heard": "المستوى",
+    "similarity": 1.0
+  },
+  {
+    "word": "وأخبرهم",
+    "paragraph": 8,
+    "start": 91.24,
+    "end": 92.02,
+    "heard": "وأخبرهم",
+    "similarity": 1.0
+  },
+  {
+    "word": "أن",
+    "paragraph": 8,
+    "start": 92.02,
+    "end": 92.26,
+    "heard": "أن",
+    "similarity": 1.0
+  },
+  {
+    "word": "الحكومة",
+    "paragraph": 8,
+    "start": 92.26,
+    "end": 92.86,
+    "heard": "الحكومة",
+    "similarity": 1.0
+  },
+  {
+    "word": "الفرنسية",
+    "paragraph": 8,
+    "start": 92.86,
+    "end": 93.56,
+    "heard": "الفرنسية",
+    "similarity": 1.0
+  },
+  {
+    "word": "تواجه",
+    "paragraph": 8,
+    "start": 93.56,
+    "end": 94.34,
+    "heard": "تواجه",
+    "similarity": 1.0
+  },
+  {
+    "word": "مشكلة",
+    "paragraph": 8,
+    "start": 94.34,
+    "end": 95.02,
+    "heard": "مشكلة",
+    "similarity": 1.0
+  },
+  {
+    "word": "مالية",
+    "paragraph": 8,
+    "start": 95.02,
+    "end": 95.62,
+    "heard": "مالية",
+    "similarity": 1.0
+  },
+  {
+    "word": "كبيرة",
+    "paragraph": 8,
+    "start": 95.62,
+    "end": 96.2,
+    "heard": "كبيرة",
+    "similarity": 1.0
+  },
+  {
+    "word": "بسبب",
+    "paragraph": 8,
+    "start": 96.2,
+    "end": 97.02,
+    "heard": "بسبب",
+    "similarity": 1.0
+  },
+  {
+    "word": "تكاليف",
+    "paragraph": 8,
+    "start": 97.02,
+    "end": 97.56,
+    "heard": "تكاليف",
+    "similarity": 1.0
+  },
+  {
+    "word": "صيانة",
+    "paragraph": 8,
+    "start": 97.56,
+    "end": 98.18,
+    "heard": "صيانة",
+    "similarity": 1.0
+  },
+  {
+    "word": "برج",
+    "paragraph": 8,
+    "start": 98.18,
+    "end": 98.42,
+    "heard": "برج",
+    "similarity": 1.0
+  },
+  {
+    "word": "إيفل،",
+    "paragraph": 8,
+    "start": 98.42,
+    "end": 98.96,
+    "heard": "إيفل",
+    "similarity": 1.0
+  },
+  {
+    "word": "وأنها",
+    "paragraph": 8,
+    "start": 98.96,
+    "end": 100.12,
+    "heard": "وأنها",
+    "similarity": 1.0
+  },
+  {
+    "word": "قررت",
+    "paragraph": 8,
+    "start": 100.12,
+    "end": 100.64,
+    "heard": "قررت",
+    "similarity": 1.0
+  },
+  {
+    "word": "تفكيكه",
+    "paragraph": 8,
+    "start": 100.64,
+    "end": 101.4,
+    "heard": "تفكيكة",
+    "similarity": 1.0
+  },
+  {
+    "word": "وبيع",
+    "paragraph": 8,
+    "start": 101.4,
+    "end": 102.08,
+    "heard": "وبيع",
+    "similarity": 1.0
+  },
+  {
+    "word": "أطنان",
+    "paragraph": 8,
+    "start": 102.08,
+    "end": 102.62,
+    "heard": "أطنان",
+    "similarity": 1.0
+  },
+  {
+    "word": "الحديد",
+    "paragraph": 8,
+    "start": 102.62,
+    "end": 103.38,
+    "heard": "الحديد",
+    "similarity": 1.0
+  },
+  {
+    "word": "التي",
+    "paragraph": 8,
+    "start": 103.38,
+    "end": 103.76,
+    "heard": "التي",
+    "similarity": 1.0
+  },
+  {
+    "word": "يتكون",
+    "paragraph": 8,
+    "start": 103.76,
+    "end": 104.34,
+    "heard": "يتكون",
+    "similarity": 1.0
+  },
+  {
+    "word": "منها.",
+    "paragraph": 8,
+    "start": 104.34,
+    "end": 104.94,
+    "heard": "منها",
+    "similarity": 1.0
+  },
+  {
+    "word": "لكن",
+    "paragraph": 9,
+    "start": 104.94,
+    "end": 105.88,
+    "heard": "لكن",
+    "similarity": 1.0
+  },
+  {
+    "word": "هناك",
+    "paragraph": 9,
+    "start": 105.88,
+    "end": 106.5,
+    "heard": "هناك",
+    "similarity": 1.0
+  },
+  {
+    "word": "شرطاً",
+    "paragraph": 9,
+    "start": 106.5,
+    "end": 107.06,
+    "heard": "الشرطا",
+    "similarity": 0.8
+  },
+  {
+    "word": "واحداً:",
+    "paragraph": 9,
+    "start": 107.06,
+    "end": 107.68,
+    "heard": "واحدا",
+    "similarity": 1.0
+  },
+  {
+    "word": "يجب",
+    "paragraph": 9,
+    "start": 107.68,
+    "end": 108.82,
+    "heard": "يجب",
+    "similarity": 1.0
+  },
+  {
+    "word": "أن",
+    "paragraph": 9,
+    "start": 108.82,
+    "end": 109.02,
+    "heard": "أن",
+    "similarity": 1.0
+  },
+  {
+    "word": "تبقى",
+    "paragraph": 9,
+    "start": 109.02,
+    "end": 109.38,
+    "heard": "تبق",
+    "similarity": 0.857
+  },
+  {
+    "word": "الصفقة",
+    "paragraph": 9,
+    "start": 109.38,
+    "end": 109.86,
+    "heard": "الصفقة",
+    "similarity": 1.0
+  },
+  {
+    "word": "سرية",
+    "paragraph": 9,
+    "start": 109.86,
+    "end": 110.48,
+    "heard": "سرية",
+    "similarity": 1.0
+  },
+  {
+    "word": "حتى",
+    "paragraph": 9,
+    "start": 110.48,
+    "end": 111.18,
+    "heard": "حتى",
+    "similarity": 1.0
+  },
+  {
+    "word": "لا",
+    "paragraph": 9,
+    "start": 111.18,
+    "end": 111.32,
+    "heard": "لا",
+    "similarity": 1.0
+  },
+  {
+    "word": "تثير",
+    "paragraph": 9,
+    "start": 111.32,
+    "end": 111.74,
+    "heard": "تثير",
+    "similarity": 1.0
+  },
+  {
+    "word": "غضب",
+    "paragraph": 9,
+    "start": 111.74,
+    "end": 112.16,
+    "heard": "غضب",
+    "similarity": 1.0
+  },
+  {
+    "word": "الشعب",
+    "paragraph": 9,
+    "start": 112.16,
+    "end": 112.58,
+    "heard": "الشعب",
+    "similarity": 1.0
+  },
+  {
+    "word": "الفرنسي.",
+    "paragraph": 9,
+    "start": 112.58,
+    "end": 113.3,
+    "heard": "الفرنسي",
+    "similarity": 1.0
+  },
+  {
+    "word": "كانت",
+    "paragraph": 10,
+    "start": 113.3,
+    "end": 114.44,
+    "heard": "كانت",
+    "similarity": 1.0
+  },
+  {
+    "word": "الخطة",
+    "paragraph": 10,
+    "start": 114.44,
+    "end": 114.9,
+    "heard": "الخطة",
+    "similarity": 1.0
+  },
+  {
+    "word": "مدروسة",
+    "paragraph": 10,
+    "start": 114.9,
+    "end": 115.58,
+    "heard": "مدروسة",
+    "similarity": 1.0
+  },
+  {
+    "word": "بعناية،",
+    "paragraph": 10,
+    "start": 115.58,
+    "end": 116.6,
+    "heard": "بعناية",
+    "similarity": 1.0
+  },
+  {
+    "word": "فقد",
+    "paragraph": 10,
+    "start": 116.6,
+    "end": 117.0,
+    "heard": "فقد",
+    "similarity": 1.0
+  },
+  {
+    "word": "استغل",
+    "paragraph": 10,
+    "start": 117.0,
+    "end": 117.68,
+    "heard": "استغللوا",
+    "similarity": 0.769
+  },
+  {
+    "word": "لوستيغ",
+    "paragraph": 10,
+    "start": 117.68,
+    "end": 118.12,
+    "heard": "استيقطة",
+    "similarity": 0.462
+  },
+  {
+    "word": "ثقة",
+    "paragraph": 10,
+    "start": 118.12,
+    "end": 118.34,
+    "heard": "",
+    "similarity": 0
+  },
+  {
+    "word": "التجار",
+    "paragraph": 10,
+    "start": 118.34,
+    "end": 118.78,
+    "heard": "التجار",
+    "similarity": 1.0
+  },
+  {
+    "word": "في",
+    "paragraph": 10,
+    "start": 118.78,
+    "end": 118.94,
+    "heard": "في",
+    "similarity": 1.0
+  },
+  {
+    "word": "المظاهر",
+    "paragraph": 10,
+    "start": 118.94,
+    "end": 119.4,
+    "heard": "المظاهر",
+    "similarity": 1.0
+  },
+  {
+    "word": "الرسمية،",
+    "paragraph": 10,
+    "start": 119.4,
+    "end": 119.96,
+    "heard": "الرسمية",
+    "similarity": 1.0
+  },
+  {
+    "word": "وأظهر",
+    "paragraph": 10,
+    "start": 120.26,
+    "end": 120.92,
+    "heard": "وأظهر",
+    "similarity": 1.0
+  },
+  {
+    "word": "لهم",
+    "paragraph": 10,
+    "start": 120.92,
+    "end": 121.2,
+    "heard": "لهم",
+    "similarity": 1.0
+  },
+  {
+    "word": "وثائق",
+    "paragraph": 10,
+    "start": 121.2,
+    "end": 121.76,
+    "heard": "وثائق",
+    "similarity": 1.0
+  },
+  {
+    "word": "تحمل",
+    "paragraph": 10,
+    "start": 121.76,
+    "end": 122.22,
+    "heard": "تحمل",
+    "similarity": 1.0
+  },
+  {
+    "word": "أختاماً",
+    "paragraph": 10,
+    "start": 122.22,
+    "end": 122.76,
+    "heard": "أختاما",
+    "similarity": 1.0
+  },
+  {
+    "word": "حكومية",
+    "paragraph": 10,
+    "start": 122.76,
+    "end": 123.44,
+    "heard": "حكومية",
+    "similarity": 1.0
+  },
+  {
+    "word": "مزيفة.",
+    "paragraph": 10,
+    "start": 123.44,
+    "end": 124.4,
+    "heard": "مزيفة",
+    "similarity": 1.0
+  },
+  {
+    "word": "ثم",
+    "paragraph": 11,
+    "start": 124.4,
+    "end": 125.0,
+    "heard": "ثم",
+    "similarity": 1.0
+  },
+  {
+    "word": "اصطحبهم",
+    "paragraph": 11,
+    "start": 125.0,
+    "end": 125.56,
+    "heard": "استحبهم",
+    "similarity": 0.714
+  },
+  {
+    "word": "في",
+    "paragraph": 11,
+    "start": 125.56,
+    "end": 125.72,
+    "heard": "في",
+    "similarity": 1.0
+  },
+  {
+    "word": "جولة",
+    "paragraph": 11,
+    "start": 125.72,
+    "end": 126.18,
+    "heard": "جولة",
+    "similarity": 1.0
+  },
+  {
+    "word": "لمشاهدة",
+    "paragraph": 11,
+    "start": 126.18,
+    "end": 127.08,
+    "heard": "لمشاهدة",
+    "similarity": 1.0
+  },
+  {
+    "word": "البرج،",
+    "paragraph": 11,
+    "start": 127.08,
+    "end": 127.64,
+    "heard": "البرج",
+    "similarity": 1.0
+  },
+  {
+    "word": "حتى",
+    "paragraph": 11,
+    "start": 127.64,
+    "end": 128.28,
+    "heard": "حتى",
+    "similarity": 1.0
+  },
+  {
+    "word": "يجعل",
+    "paragraph": 11,
+    "start": 128.28,
+    "end": 128.7,
+    "heard": "يجعل",
+    "similarity": 1.0
+  },
+  {
+    "word": "القصة",
+    "paragraph": 11,
+    "start": 128.7,
+    "end": 129.24,
+    "heard": "القصة",
+    "similarity": 1.0
+  },
+  {
+    "word": "تبدو",
+    "paragraph": 11,
+    "start": 129.24,
+    "end": 129.66,
+    "heard": "تبدو",
+    "similarity": 1.0
+  },
+  {
+    "word": "حقيقية",
+    "paragraph": 11,
+    "start": 129.66,
+    "end": 130.4,
+    "heard": "حقيقية",
+    "similarity": 1.0
+  },
+  {
+    "word": "تماماً.",
+    "paragraph": 11,
+    "start": 130.4,
+    "end": 131.08,
+    "heard": "تماما",
+    "similarity": 1.0
+  },
+  {
+    "word": "ومن",
+    "paragraph": 12,
+    "start": 131.08,
+    "end": 132.06,
+    "heard": "ومن",
+    "similarity": 1.0
+  },
+  {
+    "word": "بين",
+    "paragraph": 12,
+    "start": 132.06,
+    "end": 132.52,
+    "heard": "بينها",
+    "similarity": 0.75
+  },
+  {
+    "word": "هؤلاء",
+    "paragraph": 12,
+    "start": 132.52,
+    "end": 132.92,
+    "heard": "أولاء",
+    "similarity": 0.8
+  },
+  {
+    "word": "التجار",
+    "paragraph": 12,
+    "start": 132.92,
+    "end": 133.74,
+    "heard": "التجار",
+    "similarity": 1.0
+  },
+  {
+    "word": "كان",
+    "paragraph": 12,
+    "start": 133.74,
+    "end": 134.66,
+    "heard": "كان",
+    "similarity": 1.0
+  },
+  {
+    "word": "هناك",
+    "paragraph": 12,
+    "start": 134.66,
+    "end": 135.1,
+    "heard": "هناك",
+    "similarity": 1.0
+  },
+  {
+    "word": "رجل",
+    "paragraph": 12,
+    "start": 135.1,
+    "end": 135.44,
+    "heard": "رجل",
+    "similarity": 1.0
+  },
+  {
+    "word": "يُدعى",
+    "paragraph": 12,
+    "start": 135.44,
+    "end": 136.54,
+    "heard": "يدعى",
+    "similarity": 1.0
+  },
+  {
+    "word": "أندريه",
+    "paragraph": 12,
+    "start": 136.54,
+    "end": 137.26,
+    "heard": "أندري",
+    "similarity": 0.909
+  },
+  {
+    "word": "بواسون.",
+    "paragraph": 12,
+    "start": 137.26,
+    "end": 137.98,
+    "heard": "بوصون",
+    "similarity": 0.727
+  },
+  {
+    "word": "كان",
+    "paragraph": 13,
+    "start": 138.64,
+    "end": 139.34,
+    "heard": "كان",
+    "similarity": 1.0
+  },
+  {
+    "word": "بواسون",
+    "paragraph": 13,
+    "start": 139.34,
+    "end": 139.9,
+    "heard": "بوصون",
+    "similarity": 0.727
+  },
+  {
+    "word": "متحمساً",
+    "paragraph": 13,
+    "start": 139.9,
+    "end": 140.84,
+    "heard": "متحمسا",
+    "similarity": 1.0
+  },
+  {
+    "word": "للفوز",
+    "paragraph": 13,
+    "start": 140.84,
+    "end": 141.82,
+    "heard": "للفوز",
+    "similarity": 1.0
+  },
+  {
+    "word": "بالصفقة،",
+    "paragraph": 13,
+    "start": 141.82,
+    "end": 142.44,
+    "heard": "بالصفقة",
+    "similarity": 1.0
+  },
+  {
+    "word": "لكنه",
+    "paragraph": 13,
+    "start": 142.98,
+    "end": 143.68,
+    "heard": "لكنه",
+    "similarity": 1.0
+  },
+  {
+    "word": "لم",
+    "paragraph": 13,
+    "start": 143.68,
+    "end": 143.84,
+    "heard": "لم",
+    "similarity": 1.0
+  },
+  {
+    "word": "يكن",
+    "paragraph": 13,
+    "start": 143.84,
+    "end": 144.12,
+    "heard": "يكن",
+    "similarity": 1.0
+  },
+  {
+    "word": "واثقاً",
+    "paragraph": 13,
+    "start": 144.12,
+    "end": 144.74,
+    "heard": "واثقا",
+    "similarity": 1.0
+  },
+  {
+    "word": "تماماً",
+    "paragraph": 13,
+    "start": 144.74,
+    "end": 145.88,
+    "heard": "تماما",
+    "similarity": 1.0
+  },
+  {
+    "word": "من",
+    "paragraph": 13,
+    "start": 145.88,
+    "end": 146.04,
+    "heard": "من",
+    "similarity": 1.0
+  },
+  {
+    "word": "حقيقة",
+    "paragraph": 13,
+    "start": 146.04,
+    "end": 146.84,
+    "heard": "حقيقة",
+    "similarity": 1.0
+  },
+  {
+    "word": "العرض.",
+    "paragraph": 13,
+    "start": 146.84,
+    "end": 147.44,
+    "heard": "العرض",
+    "similarity": 1.0
+  },
+  {
+    "word": "وهنا",
+    "paragraph": 14,
+    "start": 148.36,
+    "end": 149.06,
+    "heard": "وهنا",
+    "similarity": 1.0
+  },
+  {
+    "word": "اكتشف",
+    "paragraph": 14,
+    "start": 150.04,
+    "end": 150.9,
+    "heard": "اكتشف",
+    "similarity": 1.0
+  },
+  {
+    "word": "لوستيغ",
+    "paragraph": 14,
+    "start": 150.9,
+    "end": 151.64,
+    "heard": "لوستيق",
+    "similarity": 0.833
+  },
+  {
+    "word": "نقطة",
+    "paragraph": 14,
+    "start": 151.64,
+    "end": 152.6,
+    "heard": "نقطة",
+    "similarity": 1.0
+  },
+  {
+    "word": "ضعفه.",
+    "paragraph": 14,
+    "start": 152.6,
+    "end": 153.3,
+    "heard": "ضعفه",
+    "similarity": 1.0
+  },
+  {
+    "word": "لم",
+    "paragraph": 15,
+    "start": 153.68,
+    "end": 154.38,
+    "heard": "لم",
+    "similarity": 1.0
+  },
+  {
+    "word": "يكتفِ",
+    "paragraph": 15,
+    "start": 154.38,
+    "end": 154.78,
+    "heard": "يكتف",
+    "similarity": 1.0
+  },
+  {
+    "word": "بإقناعه",
+    "paragraph": 15,
+    "start": 154.78,
+    "end": 155.68,
+    "heard": "بإقناعه",
+    "similarity": 1.0
+  },
+  {
+    "word": "بشراء",
+    "paragraph": 15,
+    "start": 155.68,
+    "end": 156.26,
+    "heard": "بشراء",
+    "similarity": 1.0
+  },
+  {
+    "word": "البرج،",
+    "paragraph": 15,
+    "start": 156.26,
+    "end": 156.68,
+    "heard": "البرج",
+    "similarity": 1.0
+  },
+  {
+    "word": "بل",
+    "paragraph": 15,
+    "start": 157.04,
+    "end": 157.74,
+    "heard": "بل",
+    "similarity": 1.0
+  },
+  {
+    "word": "أوحى",
+    "paragraph": 15,
+    "start": 157.74,
+    "end": 158.08,
+    "heard": "أوحاله",
+    "similarity": 0.6
+  },
+  {
+    "word": "له",
+    "paragraph": 15,
+    "start": 158.08,
+    "end": 158.3,
+    "heard": "",
+    "similarity": 0
+  },
+  {
+    "word": "بأنه",
+    "paragraph": 15,
+    "start": 158.3,
+    "end": 158.76,
+    "heard": "بأنه",
+    "similarity": 1.0
+  },
+  {
+    "word": "مسؤول",
+    "paragraph": 15,
+    "start": 158.76,
+    "end": 159.5,
+    "heard": "مسؤول",
+    "similarity": 1.0
+  },
+  {
+    "word": "حكومي",
+    "paragraph": 15,
+    "start": 159.5,
+    "end": 160.32,
+    "heard": "حكومي",
+    "similarity": 1.0
+  },
+  {
+    "word": "فاسد",
+    "paragraph": 15,
+    "start": 160.32,
+    "end": 161.1,
+    "heard": "فاسد",
+    "similarity": 1.0
+  },
+  {
+    "word": "يحتاج",
+    "paragraph": 15,
+    "start": 161.1,
+    "end": 161.76,
+    "heard": "يحتاج",
+    "similarity": 1.0
+  },
+  {
+    "word": "إلى",
+    "paragraph": 15,
+    "start": 161.76,
+    "end": 162.0,
+    "heard": "إلى",
+    "similarity": 1.0
+  },
+  {
+    "word": "مبلغ",
+    "paragraph": 15,
+    "start": 162.0,
+    "end": 162.46,
+    "heard": "مبلغ",
+    "similarity": 1.0
+  },
+  {
+    "word": "إضافي",
+    "paragraph": 15,
+    "start": 162.46,
+    "end": 163.22,
+    "heard": "إضافي",
+    "similarity": 1.0
+  },
+  {
+    "word": "لتسهيل",
+    "paragraph": 15,
+    "start": 163.22,
+    "end": 164.2,
+    "heard": "لتسهيل",
+    "similarity": 1.0
+  },
+  {
+    "word": "إجراءات",
+    "paragraph": 15,
+    "start": 164.2,
+    "end": 164.84,
+    "heard": "إجراءات",
+    "similarity": 1.0
+  },
+  {
+    "word": "الصفقة.",
+    "paragraph": 15,
+    "start": 164.84,
+    "end": 165.34,
+    "heard": "الصفقة",
+    "similarity": 1.0
+  },
+  {
+    "word": "وبطريقة",
+    "paragraph": 16,
+    "start": 165.34,
+    "end": 166.94,
+    "heard": "وبطريقة",
+    "similarity": 1.0
+  },
+  {
+    "word": "غريبة،",
+    "paragraph": 16,
+    "start": 166.94,
+    "end": 167.74,
+    "heard": "غريبة",
+    "similarity": 1.0
+  },
+  {
+    "word": "جعل",
+    "paragraph": 16,
+    "start": 167.74,
+    "end": 168.82,
+    "heard": "جعل",
+    "similarity": 1.0
+  },
+  {
+    "word": "لوستيغ",
+    "paragraph": 16,
+    "start": 168.82,
+    "end": 169.38,
+    "heard": "لوستيك",
+    "similarity": 0.833
+  },
+  {
+    "word": "بواسون",
+    "paragraph": 16,
+    "start": 169.38,
+    "end": 170.0,
+    "heard": "بواسون",
+    "similarity": 1.0
+  },
+  {
+    "word": "يعتقد",
+    "paragraph": 16,
+    "start": 170.0,
+    "end": 170.94,
+    "heard": "يعتقد",
+    "similarity": 1.0
+  },
+  {
+    "word": "أنه",
+    "paragraph": 16,
+    "start": 170.94,
+    "end": 171.34,
+    "heard": "أنه",
+    "similarity": 1.0
+  },
+  {
+    "word": "يتعامل",
+    "paragraph": 16,
+    "start": 171.34,
+    "end": 171.96,
+    "heard": "يتعامل",
+    "similarity": 1.0
+  },
+  {
+    "word": "مع",
+    "paragraph": 16,
+    "start": 171.96,
+    "end": 172.18,
+    "heard": "مع",
+    "similarity": 1.0
+  },
+  {
+    "word": "مسؤول",
+    "paragraph": 16,
+    "start": 172.18,
+    "end": 172.76,
+    "heard": "مسؤول",
+    "similarity": 1.0
+  },
+  {
+    "word": "فاسد،",
+    "paragraph": 16,
+    "start": 172.76,
+    "end": 173.64,
+    "heard": "فاسد",
+    "similarity": 1.0
+  },
+  {
+    "word": "وليس",
+    "paragraph": 16,
+    "start": 173.64,
+    "end": 174.52,
+    "heard": "وليس",
+    "similarity": 1.0
+  },
+  {
+    "word": "مع",
+    "paragraph": 16,
+    "start": 174.52,
+    "end": 174.72,
+    "heard": "مع",
+    "similarity": 1.0
+  },
+  {
+    "word": "محتال",
+    "paragraph": 16,
+    "start": 174.72,
+    "end": 175.32,
+    "heard": "محتال",
+    "similarity": 1.0
+  },
+  {
+    "word": "ينتحل",
+    "paragraph": 16,
+    "start": 175.32,
+    "end": 176.46,
+    "heard": "ينتحل",
+    "similarity": 1.0
+  },
+  {
+    "word": "صفة",
+    "paragraph": 16,
+    "start": 176.46,
+    "end": 176.92,
+    "heard": "صفة",
+    "similarity": 1.0
+  },
+  {
+    "word": "مسؤول",
+    "paragraph": 16,
+    "start": 176.92,
+    "end": 177.6,
+    "heard": "مسؤول",
+    "similarity": 1.0
+  },
+  {
+    "word": "حكومي!",
+    "paragraph": 16,
+    "start": 177.6,
+    "end": 179.12,
+    "heard": "حكمي",
+    "similarity": 0.889
+  },
+  {
+    "word": "وافق",
+    "paragraph": 17,
+    "start": 179.12,
+    "end": 179.86,
+    "heard": "وافق",
+    "similarity": 1.0
+  },
+  {
+    "word": "بواسون،",
+    "paragraph": 17,
+    "start": 179.86,
+    "end": 181.08,
+    "heard": "بواسون",
+    "similarity": 1.0
+  },
+  {
+    "word": "ودفع",
+    "paragraph": 17,
+    "start": 181.08,
+    "end": 181.76,
+    "heard": "ودفع",
+    "similarity": 1.0
+  },
+  {
+    "word": "المال،",
+    "paragraph": 17,
+    "start": 181.76,
+    "end": 182.38,
+    "heard": "المال",
+    "similarity": 1.0
+  },
+  {
+    "word": "وتسلم",
+    "paragraph": 17,
+    "start": 182.38,
+    "end": 183.58,
+    "heard": "وتسلم",
+    "similarity": 1.0
+  },
+  {
+    "word": "وثائق",
+    "paragraph": 17,
+    "start": 183.58,
+    "end": 184.2,
+    "heard": "وثائق",
+    "similarity": 1.0
+  },
+  {
+    "word": "مزيفة",
+    "paragraph": 17,
+    "start": 184.2,
+    "end": 184.98,
+    "heard": "مزيفة",
+    "similarity": 1.0
+  },
+  {
+    "word": "تثبت",
+    "paragraph": 17,
+    "start": 184.98,
+    "end": 185.62,
+    "heard": "تثبت",
+    "similarity": 1.0
+  },
+  {
+    "word": "شراءه",
+    "paragraph": 17,
+    "start": 185.62,
+    "end": 186.3,
+    "heard": "شراءه",
+    "similarity": 1.0
+  },
+  {
+    "word": "لحديد",
+    "paragraph": 17,
+    "start": 186.3,
+    "end": 187.2,
+    "heard": "لحديد",
+    "similarity": 1.0
+  },
+  {
+    "word": "برج",
+    "paragraph": 17,
+    "start": 187.2,
+    "end": 187.52,
+    "heard": "برج",
+    "similarity": 1.0
+  },
+  {
+    "word": "إيفل.",
+    "paragraph": 17,
+    "start": 187.52,
+    "end": 188.16,
+    "heard": "إيفل",
+    "similarity": 1.0
+  },
+  {
+    "word": "وهكذا",
+    "paragraph": 18,
+    "start": 188.16,
+    "end": 190.08,
+    "heard": "وهكذا",
+    "similarity": 1.0
+  },
+  {
+    "word": "نجح",
+    "paragraph": 18,
+    "start": 190.08,
+    "end": 191.18,
+    "heard": "نجح",
+    "similarity": 1.0
+  },
+  {
+    "word": "لوستيغ",
+    "paragraph": 18,
+    "start": 191.18,
+    "end": 191.36,
+    "heard": "لو",
+    "similarity": 0.5
+  },
+  {
+    "word": "في",
+    "paragraph": 18,
+    "start": 191.36,
+    "end": 191.74,
+    "heard": "استجف",
+    "similarity": 0.286
+  },
+  {
+    "word": "الحصول",
+    "paragraph": 18,
+    "start": 191.74,
+    "end": 192.24,
+    "heard": "الحصول",
+    "similarity": 1.0
+  },
+  {
+    "word": "على",
+    "paragraph": 18,
+    "start": 192.24,
+    "end": 192.5,
+    "heard": "على",
+    "similarity": 1.0
+  },
+  {
+    "word": "أموال",
+    "paragraph": 18,
+    "start": 192.5,
+    "end": 193.16,
+    "heard": "أموال",
+    "similarity": 1.0
+  },
+  {
+    "word": "ضخمة،",
+    "paragraph": 18,
+    "start": 193.16,
+    "end": 193.8,
+    "heard": "ضخمة",
+    "similarity": 1.0
+  },
+  {
+    "word": "ثم",
+    "paragraph": 18,
+    "start": 193.8,
+    "end": 194.74,
+    "heard": "ثم",
+    "similarity": 1.0
+  },
+  {
+    "word": "غادر",
+    "paragraph": 18,
+    "start": 194.74,
+    "end": 195.16,
+    "heard": "غادر",
+    "similarity": 1.0
+  },
+  {
+    "word": "باريس",
+    "paragraph": 18,
+    "start": 195.16,
+    "end": 195.64,
+    "heard": "باريس",
+    "similarity": 1.0
+  },
+  {
+    "word": "متجهاً",
+    "paragraph": 18,
+    "start": 195.64,
+    "end": 196.32,
+    "heard": "متجهًا",
+    "similarity": 1.0
+  },
+  {
+    "word": "إلى",
+    "paragraph": 18,
+    "start": 196.32,
+    "end": 196.5,
+    "heard": "إلى",
+    "similarity": 1.0
+  },
+  {
+    "word": "فيينا،",
+    "paragraph": 18,
+    "start": 196.5,
+    "end": 197.08,
+    "heard": "فينّة",
+    "similarity": 0.667
+  },
+  {
+    "word": "تاركاً",
+    "paragraph": 18,
+    "start": 197.68,
+    "end": 198.36,
+    "heard": "تاركًا",
+    "similarity": 1.0
+  },
+  {
+    "word": "ضحيته",
+    "paragraph": 18,
+    "start": 198.36,
+    "end": 199.1,
+    "heard": "ضحيته",
+    "similarity": 1.0
+  },
+  {
+    "word": "يكتشف",
+    "paragraph": 18,
+    "start": 199.1,
+    "end": 200.26,
+    "heard": "يكتشف",
+    "similarity": 1.0
+  },
+  {
+    "word": "الحقيقة",
+    "paragraph": 18,
+    "start": 200.26,
+    "end": 200.94,
+    "heard": "الحقيقة",
+    "similarity": 1.0
+  },
+  {
+    "word": "بنفسه.",
+    "paragraph": 18,
+    "start": 200.94,
+    "end": 201.7,
+    "heard": "بنفسه",
+    "similarity": 1.0
+  },
+  {
+    "word": "لكن",
+    "paragraph": 19,
+    "start": 201.7,
+    "end": 202.86,
+    "heard": "لكن",
+    "similarity": 1.0
+  },
+  {
+    "word": "المفاجأة",
+    "paragraph": 19,
+    "start": 202.86,
+    "end": 203.94,
+    "heard": "المفاجأة",
+    "similarity": 1.0
+  },
+  {
+    "word": "لم",
+    "paragraph": 19,
+    "start": 203.94,
+    "end": 204.52,
+    "heard": "لم",
+    "similarity": 1.0
+  },
+  {
+    "word": "تكن",
+    "paragraph": 19,
+    "start": 204.52,
+    "end": 204.78,
+    "heard": "تكن",
+    "similarity": 1.0
+  },
+  {
+    "word": "في",
+    "paragraph": 19,
+    "start": 204.78,
+    "end": 204.94,
+    "heard": "في",
+    "similarity": 1.0
+  },
+  {
+    "word": "نجاح",
+    "paragraph": 19,
+    "start": 204.94,
+    "end": 205.26,
+    "heard": "نجاح",
+    "similarity": 1.0
+  },
+  {
+    "word": "العملية",
+    "paragraph": 19,
+    "start": 205.26,
+    "end": 205.82,
+    "heard": "العملية",
+    "similarity": 1.0
+  },
+  {
+    "word": "فقط.",
+    "paragraph": 19,
+    "start": 205.82,
+    "end": 206.28,
+    "heard": "فقط",
+    "similarity": 1.0
+  },
+  {
+    "word": "فقد",
+    "paragraph": 20,
+    "start": 206.28,
+    "end": 207.32,
+    "heard": "فقد",
+    "similarity": 1.0
+  },
+  {
+    "word": "شعر",
+    "paragraph": 20,
+    "start": 207.32,
+    "end": 207.66,
+    "heard": "شعر",
+    "similarity": 1.0
+  },
+  {
+    "word": "أندريه",
+    "paragraph": 20,
+    "start": 207.66,
+    "end": 208.3,
+    "heard": "أندريب",
+    "similarity": 0.833
+  },
+  {
+    "word": "بواسون",
+    "paragraph": 20,
+    "start": 208.3,
+    "end": 208.66,
+    "heard": "وصوم",
+    "similarity": 0.4
+  },
+  {
+    "word": "بالخجل",
+    "paragraph": 20,
+    "start": 208.66,
+    "end": 209.14,
+    "heard": "بالخجل",
+    "similarity": 1.0
+  },
+  {
+    "word": "الشديد",
+    "paragraph": 20,
+    "start": 209.14,
+    "end": 209.82,
+    "heard": "الشديد",
+    "similarity": 1.0
+  },
+  {
+    "word": "من",
+    "paragraph": 20,
+    "start": 209.82,
+    "end": 210.14,
+    "heard": "من",
+    "similarity": 1.0
+  },
+  {
+    "word": "الاعتراف",
+    "paragraph": 20,
+    "start": 210.14,
+    "end": 210.8,
+    "heard": "الاعتراف",
+    "similarity": 1.0
+  },
+  {
+    "word": "بأنه",
+    "paragraph": 20,
+    "start": 210.8,
+    "end": 211.36,
+    "heard": "بأنه",
+    "similarity": 1.0
+  },
+  {
+    "word": "تعرض",
+    "paragraph": 20,
+    "start": 211.36,
+    "end": 211.78,
+    "heard": "تعرض",
+    "similarity": 1.0
+  },
+  {
+    "word": "للخداع،",
+    "paragraph": 20,
+    "start": 211.78,
+    "end": 212.64,
+    "heard": "للخداع",
+    "similarity": 1.0
+  },
+  {
+    "word": "ولم",
+    "paragraph": 20,
+    "start": 212.64,
+    "end": 213.9,
+    "heard": "ولم",
+    "similarity": 1.0
+  },
+  {
+    "word": "يسارع",
+    "paragraph": 20,
+    "start": 213.9,
+    "end": 214.44,
+    "heard": "يسارع",
+    "similarity": 1.0
+  },
+  {
+    "word": "إلى",
+    "paragraph": 20,
+    "start": 214.44,
+    "end": 214.64,
+    "heard": "إلى",
+    "similarity": 1.0
+  },
+  {
+    "word": "إبلاغ",
+    "paragraph": 20,
+    "start": 214.64,
+    "end": 215.02,
+    "heard": "إبلاغ",
+    "similarity": 1.0
+  },
+  {
+    "word": "الشرطة،",
+    "paragraph": 20,
+    "start": 215.02,
+    "end": 215.76,
+    "heard": "الشرطة",
+    "similarity": 1.0
+  },
+  {
+    "word": "وفقاً",
+    "paragraph": 20,
+    "start": 215.76,
+    "end": 216.2,
+    "heard": "وفقًا",
+    "similarity": 1.0
+  },
+  {
+    "word": "للرواية",
+    "paragraph": 20,
+    "start": 216.2,
+    "end": 216.66,
+    "heard": "للرواية",
+    "similarity": 1.0
+  },
+  {
+    "word": "التاريخية",
+    "paragraph": 20,
+    "start": 216.66,
+    "end": 217.34,
+    "heard": "التاريخية",
+    "similarity": 1.0
+  },
+  {
+    "word": "الشهيرة.",
+    "paragraph": 20,
+    "start": 217.34,
+    "end": 217.92,
+    "heard": "الشهيرة",
+    "similarity": 1.0
+  },
+  {
+    "word": "وهنا",
+    "paragraph": 21,
+    "start": 217.92,
+    "end": 218.96,
+    "heard": "وهنا",
+    "similarity": 1.0
+  },
+  {
+    "word": "اعتقد",
+    "paragraph": 21,
+    "start": 218.96,
+    "end": 219.34,
+    "heard": "اعتقد",
+    "similarity": 1.0
+  },
+  {
+    "word": "لوستيغ",
+    "paragraph": 21,
+    "start": 219.34,
+    "end": 219.86,
+    "heard": "لستج",
+    "similarity": 0.6
+  },
+  {
+    "word": "أن",
+    "paragraph": 21,
+    "start": 219.86,
+    "end": 220.18,
+    "heard": "ان",
+    "similarity": 1.0
+  },
+  {
+    "word": "بإمكانه",
+    "paragraph": 21,
+    "start": 220.46,
+    "end": 220.66,
+    "heard": "كان",
+    "similarity": 0.6
+  },
+  {
+    "word": "تكرار",
+    "paragraph": 21,
+    "start": 220.66,
+    "end": 221.16,
+    "heard": "هيتكرار",
+    "similarity": 0.833
+  },
+  {
+    "word": "الجريمة.",
+    "paragraph": 21,
+    "start": 221.16,
+    "end": 221.66,
+    "heard": "الجريمة",
+    "similarity": 1.0
+  },
+  {
+    "word": "عاد",
+    "paragraph": 22,
+    "start": 221.66,
+    "end": 222.54,
+    "heard": "عاد",
+    "similarity": 1.0
+  },
+  {
+    "word": "إلى",
+    "paragraph": 22,
+    "start": 222.54,
+    "end": 222.7,
+    "heard": "إلى",
+    "similarity": 1.0
+  },
+  {
+    "word": "باريس،",
+    "paragraph": 22,
+    "start": 222.7,
+    "end": 223.22,
+    "heard": "باريس",
+    "similarity": 1.0
+  },
+  {
+    "word": "وحاول",
+    "paragraph": 22,
+    "start": 223.22,
+    "end": 223.8,
+    "heard": "وحول",
+    "similarity": 0.889
+  },
+  {
+    "word": "تنفيذ",
+    "paragraph": 22,
+    "start": 223.8,
+    "end": 224.22,
+    "heard": "تنفيذ",
+    "similarity": 1.0
+  },
+  {
+    "word": "الخدعة",
+    "paragraph": 22,
+    "start": 224.22,
+    "end": 224.62,
+    "heard": "الخضعة",
+    "similarity": 0.833
+  },
+  {
+    "word": "مرة",
+    "paragraph": 22,
+    "start": 224.62,
+    "end": 224.96,
+    "heard": "مرة",
+    "similarity": 1.0
+  },
+  {
+    "word": "ثانية",
+    "paragraph": 22,
+    "start": 224.96,
+    "end": 225.66,
+    "heard": "ثانية",
+    "similarity": 1.0
+  },
+  {
+    "word": "مع",
+    "paragraph": 22,
+    "start": 225.66,
+    "end": 225.94,
+    "heard": "مع",
+    "similarity": 1.0
+  },
+  {
+    "word": "مجموعة",
+    "paragraph": 22,
+    "start": 225.94,
+    "end": 226.48,
+    "heard": "مجموعة",
+    "similarity": 1.0
+  },
+  {
+    "word": "أخرى",
+    "paragraph": 22,
+    "start": 226.48,
+    "end": 226.94,
+    "heard": "اخرى",
+    "similarity": 1.0
+  },
+  {
+    "word": "من",
+    "paragraph": 22,
+    "start": 226.94,
+    "end": 227.06,
+    "heard": "من",
+    "similarity": 1.0
+  },
+  {
+    "word": "التجار.",
+    "paragraph": 22,
+    "start": 227.06,
+    "end": 227.58,
+    "heard": "التجار",
+    "similarity": 1.0
+  },
+  {
+    "word": "لكن",
+    "paragraph": 23,
+    "start": 227.58,
+    "end": 228.5,
+    "heard": "لكن",
+    "similarity": 1.0
+  },
+  {
+    "word": "هذه",
+    "paragraph": 23,
+    "start": 228.5,
+    "end": 229.08,
+    "heard": "هذه",
+    "similarity": 1.0
+  },
+  {
+    "word": "المرة",
+    "paragraph": 23,
+    "start": 229.08,
+    "end": 229.52,
+    "heard": "المرة",
+    "similarity": 1.0
+  },
+  {
+    "word": "لم",
+    "paragraph": 23,
+    "start": 229.52,
+    "end": 230.02,
+    "heard": "لم",
+    "similarity": 1.0
+  },
+  {
+    "word": "تسر",
+    "paragraph": 23,
+    "start": 230.02,
+    "end": 230.32,
+    "heard": "تسر",
+    "similarity": 1.0
+  },
+  {
+    "word": "الأمور",
+    "paragraph": 23,
+    "start": 230.32,
+    "end": 230.64,
+    "heard": "الامور",
+    "similarity": 1.0
+  },
+  {
+    "word": "كما",
+    "paragraph": 23,
+    "start": 230.64,
+    "end": 230.96,
+    "heard": "كما",
+    "similarity": 1.0
+  },
+  {
+    "word": "خطط",
+    "paragraph": 23,
+    "start": 230.96,
+    "end": 231.24,
+    "heard": "خطط",
+    "similarity": 1.0
+  },
+  {
+    "word": "لها،",
+    "paragraph": 23,
+    "start": 231.24,
+    "end": 231.58,
+    "heard": "لها",
+    "similarity": 1.0
+  },
+  {
+    "word": "فقد",
+    "paragraph": 23,
+    "start": 231.58,
+    "end": 232.2,
+    "heard": "فقد",
+    "similarity": 1.0
+  },
+  {
+    "word": "بدأ",
+    "paragraph": 23,
+    "start": 232.2,
+    "end": 232.48,
+    "heard": "بدأ",
+    "similarity": 1.0
+  },
+  {
+    "word": "أحد",
+    "paragraph": 23,
+    "start": 232.48,
+    "end": 232.64,
+    "heard": "احد",
+    "similarity": 1.0
+  },
+  {
+    "word": "التجار",
+    "paragraph": 23,
+    "start": 232.64,
+    "end": 233.14,
+    "heard": "التجار",
+    "similarity": 1.0
+  },
+  {
+    "word": "يشك",
+    "paragraph": 23,
+    "start": 233.14,
+    "end": 233.6,
+    "heard": "يشكف",
+    "similarity": 0.857
+  },
+  {
+    "word": "في",
+    "paragraph": 23,
+    "start": 233.6,
+    "end": 233.82,
+    "heard": "",
+    "similarity": 0
+  },
+  {
+    "word": "القصة",
+    "paragraph": 23,
+    "start": 233.82,
+    "end": 234.3,
+    "heard": "القصة",
+    "similarity": 1.0
+  },
+  {
+    "word": "ويتحقق",
+    "paragraph": 23,
+    "start": 234.3,
+    "end": 235.06,
+    "heard": "ويتحقق",
+    "similarity": 1.0
+  },
+  {
+    "word": "من",
+    "paragraph": 23,
+    "start": 235.06,
+    "end": 235.22,
+    "heard": "من",
+    "similarity": 1.0
+  },
+  {
+    "word": "صحتها.",
+    "paragraph": 23,
+    "start": 235.22,
+    "end": 235.8,
+    "heard": "صحتها",
+    "similarity": 1.0
+  },
+  {
+    "word": "اضطر",
+    "paragraph": 24,
+    "start": 235.8,
+    "end": 236.62,
+    "heard": "اتطر",
+    "similarity": 0.75
+  },
+  {
+    "word": "لوستيغ",
+    "paragraph": 24,
+    "start": 236.62,
+    "end": 237.06,
+    "heard": "لستج",
+    "similarity": 0.6
+  },
+  {
+    "word": "إلى",
+    "paragraph": 24,
+    "start": 237.06,
+    "end": 237.24,
+    "heard": "الى",
+    "similarity": 1.0
+  },
+  {
+    "word": "الفرار",
+    "paragraph": 24,
+    "start": 237.24,
+    "end": 237.56,
+    "heard": "الفرار",
+    "similarity": 1.0
+  },
+  {
+    "word": "مرة",
+    "paragraph": 24,
+    "start": 237.56,
+    "end": 237.86,
+    "heard": "مرة",
+    "similarity": 1.0
+  },
+  {
+    "word": "أخرى،",
+    "paragraph": 24,
+    "start": 237.86,
+    "end": 238.52,
+    "heard": "اخرى",
+    "similarity": 1.0
+  },
+  {
+    "word": "متجهاً",
+    "paragraph": 24,
+    "start": 238.52,
+    "end": 239.02,
+    "heard": "متجيا",
+    "similarity": 0.8
+  },
+  {
+    "word": "إلى",
+    "paragraph": 24,
+    "start": 239.02,
+    "end": 239.3,
+    "heard": "الى",
+    "similarity": 1.0
+  },
+  {
+    "word": "الولايات",
+    "paragraph": 24,
+    "start": 239.3,
+    "end": 239.72,
+    "heard": "الولايات",
+    "similarity": 1.0
+  },
+  {
+    "word": "المتحدة",
+    "paragraph": 24,
+    "start": 239.72,
+    "end": 240.3,
+    "heard": "المتحدة",
+    "similarity": 1.0
+  },
+  {
+    "word": "الأمريكية.",
+    "paragraph": 24,
+    "start": 240.3,
+    "end": 241.04,
+    "heard": "الامريكية",
+    "similarity": 1.0
+  },
+  {
+    "word": "هناك،",
+    "paragraph": 25,
+    "start": 241.04,
+    "end": 242.28,
+    "heard": "هناك",
+    "similarity": 1.0
+  },
+  {
+    "word": "واصل",
+    "paragraph": 25,
+    "start": 242.28,
+    "end": 242.64,
+    "heard": "وصل",
+    "similarity": 0.857
+  },
+  {
+    "word": "حياته",
+    "paragraph": 25,
+    "start": 242.64,
+    "end": 243.14,
+    "heard": "حياته",
+    "similarity": 1.0
+  },
+  {
+    "word": "في",
+    "paragraph": 25,
+    "start": 243.14,
+    "end": 243.32,
+    "heard": "في",
+    "similarity": 1.0
+  },
+  {
+    "word": "عالم",
+    "paragraph": 25,
+    "start": 243.32,
+    "end": 243.56,
+    "heard": "عالم",
+    "similarity": 1.0
+  },
+  {
+    "word": "الاحتيال",
+    "paragraph": 25,
+    "start": 243.56,
+    "end": 244.08,
+    "heard": "الاحتيال",
+    "similarity": 1.0
+  },
+  {
+    "word": "والتزوير،",
+    "paragraph": 25,
+    "start": 244.08,
+    "end": 244.74,
+    "heard": "والتزوير",
+    "similarity": 1.0
+  },
+  {
+    "word": "حتى",
+    "paragraph": 25,
+    "start": 244.74,
+    "end": 245.48,
+    "heard": "حتى",
+    "similarity": 1.0
+  },
+  {
+    "word": "أصبح",
+    "paragraph": 25,
+    "start": 245.48,
+    "end": 245.84,
+    "heard": "أصبح",
+    "similarity": 1.0
+  },
+  {
+    "word": "مطلوباً",
+    "paragraph": 25,
+    "start": 245.84,
+    "end": 246.46,
+    "heard": "مطلوبا",
+    "similarity": 1.0
+  },
+  {
+    "word": "لدى",
+    "paragraph": 25,
+    "start": 246.46,
+    "end": 246.76,
+    "heard": "لدى",
+    "similarity": 1.0
+  },
+  {
+    "word": "السلطات",
+    "paragraph": 25,
+    "start": 246.76,
+    "end": 247.24,
+    "heard": "السلوطات",
+    "similarity": 0.933
+  },
+  {
+    "word": "الأمريكية.",
+    "paragraph": 25,
+    "start": 247.24,
+    "end": 247.94,
+    "heard": "الأمريكية",
+    "similarity": 1.0
+  },
+  {
+    "word": "وفي",
+    "paragraph": 26,
+    "start": 247.94,
+    "end": 248.92,
+    "heard": "وفي",
+    "similarity": 1.0
+  },
+  {
+    "word": "عام",
+    "paragraph": 26,
+    "start": 248.92,
+    "end": 249.14,
+    "heard": "عام",
+    "similarity": 1.0
+  },
+  {
+    "word": "1935،",
+    "paragraph": 26,
+    "start": 249.14,
+    "end": 250.58,
+    "heard": "1935",
+    "similarity": 1.0
+  },
+  {
+    "word": "ألقت",
+    "paragraph": 26,
+    "start": 251.34,
+    "end": 252.04,
+    "heard": "ألقت",
+    "similarity": 1.0
+  },
+  {
+    "word": "السلطات",
+    "paragraph": 26,
+    "start": 252.04,
+    "end": 252.58,
+    "heard": "السلوطات",
+    "similarity": 0.933
+  },
+  {
+    "word": "القبض",
+    "paragraph": 26,
+    "start": 252.58,
+    "end": 252.92,
+    "heard": "القبض",
+    "similarity": 1.0
+  },
+  {
+    "word": "عليه",
+    "paragraph": 26,
+    "start": 252.92,
+    "end": 253.2,
+    "heard": "عليه",
+    "similarity": 1.0
+  },
+  {
+    "word": "بعد",
+    "paragraph": 26,
+    "start": 253.2,
+    "end": 253.76,
+    "heard": "بعد",
+    "similarity": 1.0
+  },
+  {
+    "word": "تورطه",
+    "paragraph": 26,
+    "start": 253.76,
+    "end": 254.36,
+    "heard": "تورطه",
+    "similarity": 1.0
+  },
+  {
+    "word": "في",
+    "paragraph": 26,
+    "start": 254.36,
+    "end": 254.5,
+    "heard": "في",
+    "similarity": 1.0
+  },
+  {
+    "word": "عمليات",
+    "paragraph": 26,
+    "start": 254.5,
+    "end": 255.08,
+    "heard": "عمليات",
+    "similarity": 1.0
+  },
+  {
+    "word": "تزوير",
+    "paragraph": 26,
+    "start": 255.08,
+    "end": 255.52,
+    "heard": "تزوير",
+    "similarity": 1.0
+  },
+  {
+    "word": "واسعة",
+    "paragraph": 26,
+    "start": 255.52,
+    "end": 256.1,
+    "heard": "واسعة",
+    "similarity": 1.0
+  },
+  {
+    "word": "للعملات",
+    "paragraph": 26,
+    "start": 256.1,
+    "end": 256.74,
+    "heard": "للعملات",
+    "similarity": 1.0
+  },
+  {
+    "word": "النقدية.",
+    "paragraph": 26,
+    "start": 256.74,
+    "end": 257.32,
+    "heard": "النقدية",
+    "similarity": 1.0
+  },
+  {
+    "word": "وحُكم",
+    "paragraph": 27,
+    "start": 257.32,
+    "end": 258.16,
+    "heard": "وحكم",
+    "similarity": 1.0
+  },
+  {
+    "word": "عليه",
+    "paragraph": 27,
+    "start": 258.16,
+    "end": 258.54,
+    "heard": "عليه",
+    "similarity": 1.0
+  },
+  {
+    "word": "بالسجن،",
+    "paragraph": 27,
+    "start": 258.54,
+    "end": 259.1,
+    "heard": "بالسجن",
+    "similarity": 1.0
+  },
+  {
+    "word": "وانتهى",
+    "paragraph": 27,
+    "start": 259.1,
+    "end": 259.98,
+    "heard": "وانتهبه",
+    "similarity": 0.769
+  },
+  {
+    "word": "به",
+    "paragraph": 27,
+    "start": 259.98,
+    "end": 260.2,
+    "heard": "",
+    "similarity": 0
+  },
+  {
+    "word": "المطاف",
+    "paragraph": 27,
+    "start": 260.2,
+    "end": 260.66,
+    "heard": "المطاف",
+    "similarity": 1.0
+  },
+  {
+    "word": "في",
+    "paragraph": 27,
+    "start": 260.66,
+    "end": 261.04,
+    "heard": "في",
+    "similarity": 1.0
+  },
+  {
+    "word": "سجن",
+    "paragraph": 27,
+    "start": 261.04,
+    "end": 261.32,
+    "heard": "سجن",
+    "similarity": 1.0
+  },
+  {
+    "word": "ألكاتراز",
+    "paragraph": 27,
+    "start": 261.64,
+    "end": 261.88,
+    "heard": "تراز",
+    "similarity": 0.667
+  },
+  {
+    "word": "الشهير،",
+    "paragraph": 27,
+    "start": 261.88,
+    "end": 262.38,
+    "heard": "الشهير",
+    "similarity": 1.0
+  },
+  {
+    "word": "أحد",
+    "paragraph": 27,
+    "start": 262.38,
+    "end": 263.04,
+    "heard": "أحد",
+    "similarity": 1.0
+  },
+  {
+    "word": "أكثر",
+    "paragraph": 27,
+    "start": 263.04,
+    "end": 263.52,
+    "heard": "أكثر",
+    "similarity": 1.0
+  },
+  {
+    "word": "السجون",
+    "paragraph": 27,
+    "start": 263.52,
+    "end": 263.94,
+    "heard": "السجون",
+    "similarity": 1.0
+  },
+  {
+    "word": "حراسة",
+    "paragraph": 27,
+    "start": 263.94,
+    "end": 264.56,
+    "heard": "حراسة",
+    "similarity": 1.0
+  },
+  {
+    "word": "في",
+    "paragraph": 27,
+    "start": 264.56,
+    "end": 265.0,
+    "heard": "في",
+    "similarity": 1.0
+  },
+  {
+    "word": "الولايات",
+    "paragraph": 27,
+    "start": 265.0,
+    "end": 265.54,
+    "heard": "الولايات",
+    "similarity": 1.0
+  },
+  {
+    "word": "المتحدة.",
+    "paragraph": 27,
+    "start": 265.54,
+    "end": 266.44,
+    "heard": "المتحدة",
+    "similarity": 1.0
+  },
+  {
+    "word": "وفي",
+    "paragraph": 28,
+    "start": 266.44,
+    "end": 267.06,
+    "heard": "وفي",
+    "similarity": 1.0
+  },
+  {
+    "word": "الحادي",
+    "paragraph": 28,
+    "start": 267.06,
+    "end": 267.34,
+    "heard": "الحادي",
+    "similarity": 1.0
+  },
+  {
+    "word": "عشر",
+    "paragraph": 28,
+    "start": 267.34,
+    "end": 267.68,
+    "heard": "عشر",
+    "similarity": 1.0
+  },
+  {
+    "word": "من",
+    "paragraph": 28,
+    "start": 267.68,
+    "end": 267.84,
+    "heard": "من",
+    "similarity": 1.0
+  },
+  {
+    "word": "مارس",
+    "paragraph": 28,
+    "start": 267.84,
+    "end": 268.28,
+    "heard": "مارس",
+    "similarity": 1.0
+  },
+  {
+    "word": "عام",
+    "paragraph": 28,
+    "start": 268.28,
+    "end": 268.72,
+    "heard": "عام",
+    "similarity": 1.0
+  },
+  {
+    "word": "1947،",
+    "paragraph": 28,
+    "start": 268.72,
+    "end": 271.0,
+    "heard": "1947",
+    "similarity": 1.0
+  },
+  {
+    "word": "توفي",
+    "paragraph": 28,
+    "start": 271.0,
+    "end": 271.88,
+    "heard": "توفي",
+    "similarity": 1.0
+  },
+  {
+    "word": "فيكتور",
+    "paragraph": 28,
+    "start": 271.88,
+    "end": 272.22,
+    "heard": "فكتر",
+    "similarity": 0.8
+  },
+  {
+    "word": "لوستيغ",
+    "paragraph": 28,
+    "start": 272.22,
+    "end": 272.72,
+    "heard": "لوستيغ",
+    "similarity": 1.0
+  },
+  {
+    "word": "داخل",
+    "paragraph": 28,
+    "start": 272.72,
+    "end": 273.18,
+    "heard": "داخل",
+    "similarity": 1.0
+  },
+  {
+    "word": "مركز",
+    "paragraph": 28,
+    "start": 273.18,
+    "end": 273.54,
+    "heard": "مركز",
+    "similarity": 1.0
+  },
+  {
+    "word": "طبي",
+    "paragraph": 28,
+    "start": 273.54,
+    "end": 274.14,
+    "heard": "طبيٍ",
+    "similarity": 1.0
+  },
+  {
+    "word": "تابع",
+    "paragraph": 28,
+    "start": 274.14,
+    "end": 274.58,
+    "heard": "تابعٍ",
+    "similarity": 1.0
+  },
+  {
+    "word": "للسجون",
+    "paragraph": 28,
+    "start": 274.58,
+    "end": 274.98,
+    "heard": "للسجون",
+    "similarity": 1.0
+  },
+  {
+    "word": "الفيدرالية",
+    "paragraph": 28,
+    "start": 274.98,
+    "end": 275.66,
+    "heard": "الفدرالية",
+    "similarity": 0.947
+  },
+  {
+    "word": "الأمريكية،",
+    "paragraph": 28,
+    "start": 275.66,
+    "end": 276.36,
+    "heard": "الامريكية",
+    "similarity": 1.0
+  },
+  {
+    "word": "بعد",
+    "paragraph": 28,
+    "start": 276.36,
+    "end": 277.06,
+    "heard": "بعد",
+    "similarity": 1.0
+  },
+  {
+    "word": "إصابته",
+    "paragraph": 28,
+    "start": 277.06,
+    "end": 277.78,
+    "heard": "إصابته",
+    "similarity": 1.0
+  },
+  {
+    "word": "بالالتهاب",
+    "paragraph": 28,
+    "start": 277.78,
+    "end": 278.78,
+    "heard": "باللتهاب",
+    "similarity": 0.941
+  },
+  {
+    "word": "الرئوي.",
+    "paragraph": 28,
+    "start": 278.78,
+    "end": 279.3,
+    "heard": "الرئوي.",
+    "similarity": 1.0
+  },
+  {
+    "word": "وهكذا",
+    "paragraph": 29,
+    "start": 279.66,
+    "end": 280.72,
+    "heard": "وهكذا",
+    "similarity": 1.0
+  },
+  {
+    "word": "انتهت",
+    "paragraph": 29,
+    "start": 280.72,
+    "end": 281.88,
+    "heard": "انتهت",
+    "similarity": 1.0
+  },
+  {
+    "word": "حياة",
+    "paragraph": 29,
+    "start": 281.88,
+    "end": 282.38,
+    "heard": "حياة",
+    "similarity": 1.0
+  },
+  {
+    "word": "الرجل",
+    "paragraph": 29,
+    "start": 282.38,
+    "end": 282.8,
+    "heard": "الرجل",
+    "similarity": 1.0
+  },
+  {
+    "word": "الذي",
+    "paragraph": 29,
+    "start": 282.8,
+    "end": 283.04,
+    "heard": "الذي",
+    "similarity": 1.0
+  },
+  {
+    "word": "استطاع",
+    "paragraph": 29,
+    "start": 283.04,
+    "end": 283.6,
+    "heard": "استطاع",
+    "similarity": 1.0
+  },
+  {
+    "word": "أن",
+    "paragraph": 29,
+    "start": 283.6,
+    "end": 283.88,
+    "heard": "أن",
+    "similarity": 1.0
+  },
+  {
+    "word": "يجعل",
+    "paragraph": 29,
+    "start": 283.88,
+    "end": 284.36,
+    "heard": "يجعل",
+    "similarity": 1.0
+  },
+  {
+    "word": "أحد",
+    "paragraph": 29,
+    "start": 284.36,
+    "end": 284.8,
+    "heard": "أحد",
+    "similarity": 1.0
+  },
+  {
+    "word": "أشهر",
+    "paragraph": 29,
+    "start": 284.8,
+    "end": 285.44,
+    "heard": "أشهر",
+    "similarity": 1.0
+  },
+  {
+    "word": "معالم",
+    "paragraph": 29,
+    "start": 285.44,
+    "end": 285.94,
+    "heard": "معالم",
+    "similarity": 1.0
+  },
+  {
+    "word": "العالم",
+    "paragraph": 29,
+    "start": 285.94,
+    "end": 286.6,
+    "heard": "العالم",
+    "similarity": 1.0
+  },
+  {
+    "word": "موضوعاً",
+    "paragraph": 29,
+    "start": 286.6,
+    "end": 288.22,
+    "heard": "موضوعاً",
+    "similarity": 1.0
+  },
+  {
+    "word": "لصفقة",
+    "paragraph": 29,
+    "start": 288.22,
+    "end": 289.08,
+    "heard": "لصفقةٍ",
+    "similarity": 1.0
+  },
+  {
+    "word": "وهمية.",
+    "paragraph": 29,
+    "start": 289.08,
+    "end": 289.64,
+    "heard": "وهمية.",
+    "similarity": 1.0
+  },
+  {
+    "word": "لكن",
+    "paragraph": 30,
+    "start": 290.2,
+    "end": 290.66,
+    "heard": "لكن",
+    "similarity": 1.0
+  },
+  {
+    "word": "السؤال",
+    "paragraph": 30,
+    "start": 290.66,
+    "end": 291.2,
+    "heard": "السؤال",
+    "similarity": 1.0
+  },
+  {
+    "word": "الذي",
+    "paragraph": 30,
+    "start": 291.2,
+    "end": 291.4,
+    "heard": "الذي",
+    "similarity": 1.0
+  },
+  {
+    "word": "يبقى",
+    "paragraph": 30,
+    "start": 291.4,
+    "end": 292.04,
+    "heard": "يبقى",
+    "similarity": 1.0
+  },
+  {
+    "word": "حتى",
+    "paragraph": 30,
+    "start": 292.04,
+    "end": 292.38,
+    "heard": "حتى",
+    "similarity": 1.0
+  },
+  {
+    "word": "اليوم:",
+    "paragraph": 30,
+    "start": 292.38,
+    "end": 292.98,
+    "heard": "اليوم.",
+    "similarity": 1.0
+  },
+  {
+    "word": "كيف",
+    "paragraph": 31,
+    "start": 293.72,
+    "end": 294.18,
+    "heard": "كيف",
+    "similarity": 1.0
+  },
+  {
+    "word": "استطاع",
+    "paragraph": 31,
+    "start": 294.18,
+    "end": 294.64,
+    "heard": "استطاع",
+    "similarity": 1.0
+  },
+  {
+    "word": "رجل",
+    "paragraph": 31,
+    "start": 294.64,
+    "end": 295.04,
+    "heard": "رجل",
+    "similarity": 1.0
+  },
+  {
+    "word": "واحد",
+    "paragraph": 31,
+    "start": 295.04,
+    "end": 295.58,
+    "heard": "واحد",
+    "similarity": 1.0
+  },
+  {
+    "word": "أن",
+    "paragraph": 31,
+    "start": 295.58,
+    "end": 295.9,
+    "heard": "أن",
+    "similarity": 1.0
+  },
+  {
+    "word": "يقنع",
+    "paragraph": 31,
+    "start": 295.9,
+    "end": 296.36,
+    "heard": "يقنع",
+    "similarity": 1.0
+  },
+  {
+    "word": "تاجراً",
+    "paragraph": 31,
+    "start": 296.36,
+    "end": 296.94,
+    "heard": "تاجرا",
+    "similarity": 1.0
+  },
+  {
+    "word": "بشراء",
+    "paragraph": 31,
+    "start": 296.94,
+    "end": 297.88,
+    "heard": "بشراء",
+    "similarity": 1.0
+  },
+  {
+    "word": "برج",
+    "paragraph": 31,
+    "start": 297.88,
+    "end": 298.24,
+    "heard": "برج",
+    "similarity": 1.0
+  },
+  {
+    "word": "إيفل،",
+    "paragraph": 31,
+    "start": 298.24,
+    "end": 298.78,
+    "heard": "إيبل",
+    "similarity": 0.75
+  },
+  {
+    "word": "دون",
+    "paragraph": 31,
+    "start": 298.78,
+    "end": 299.78,
+    "heard": "دون",
+    "similarity": 1.0
+  },
+  {
+    "word": "أن",
+    "paragraph": 31,
+    "start": 299.78,
+    "end": 300.02,
+    "heard": "أن",
+    "similarity": 1.0
+  },
+  {
+    "word": "يمتلكه؟",
+    "paragraph": 31,
+    "start": 300.02,
+    "end": 300.92,
+    "heard": "يمتلكه",
+    "similarity": 1.0
+  },
+  {
+    "word": "ربما",
+    "paragraph": 32,
+    "start": 301.64,
+    "end": 302.22,
+    "heard": "ربما",
+    "similarity": 1.0
+  },
+  {
+    "word": "لم",
+    "paragraph": 32,
+    "start": 302.22,
+    "end": 302.56,
+    "heard": "لم",
+    "similarity": 1.0
+  },
+  {
+    "word": "تكن",
+    "paragraph": 32,
+    "start": 302.56,
+    "end": 302.92,
+    "heard": "تكن",
+    "similarity": 1.0
+  },
+  {
+    "word": "قوة",
+    "paragraph": 32,
+    "start": 302.92,
+    "end": 303.32,
+    "heard": "قوة",
+    "similarity": 1.0
+  },
+  {
+    "word": "لوستيغ",
+    "paragraph": 32,
+    "start": 303.32,
+    "end": 303.78,
+    "heard": "لاستج",
+    "similarity": 0.545
+  },
+  {
+    "word": "في",
+    "paragraph": 32,
+    "start": 303.78,
+    "end": 303.98,
+    "heard": "في",
+    "similarity": 1.0
+  },
+  {
+    "word": "قدرته",
+    "paragraph": 32,
+    "start": 303.98,
+    "end": 304.66,
+    "heard": "قدرته",
+    "similarity": 1.0
+  },
+  {
+    "word": "على",
+    "paragraph": 32,
+    "start": 304.66,
+    "end": 304.9,
+    "heard": "على",
+    "similarity": 1.0
+  },
+  {
+    "word": "الكذب",
+    "paragraph": 32,
+    "start": 304.9,
+    "end": 305.5,
+    "heard": "الكذب",
+    "similarity": 1.0
+  },
+  {
+    "word": "فقط،",
+    "paragraph": 32,
+    "start": 305.5,
+    "end": 305.96,
+    "heard": "فقط",
+    "similarity": 1.0
+  },
+  {
+    "word": "بل",
+    "paragraph": 32,
+    "start": 306.26,
+    "end": 306.84,
+    "heard": "بل",
+    "similarity": 1.0
+  },
+  {
+    "word": "في",
+    "paragraph": 32,
+    "start": 306.84,
+    "end": 306.96,
+    "heard": "في",
+    "similarity": 1.0
+  },
+  {
+    "word": "فهمه",
+    "paragraph": 32,
+    "start": 306.96,
+    "end": 307.42,
+    "heard": "فهمه",
+    "similarity": 1.0
+  },
+  {
+    "word": "العميق",
+    "paragraph": 32,
+    "start": 307.42,
+    "end": 308.04,
+    "heard": "العميق",
+    "similarity": 1.0
+  },
+  {
+    "word": "لطبيعة",
+    "paragraph": 32,
+    "start": 308.04,
+    "end": 308.72,
+    "heard": "لطبيعة",
+    "similarity": 1.0
+  },
+  {
+    "word": "البشر،",
+    "paragraph": 32,
+    "start": 308.72,
+    "end": 309.28,
+    "heard": "البشر",
+    "similarity": 1.0
+  },
+  {
+    "word": "وكيف",
+    "paragraph": 32,
+    "start": 309.28,
+    "end": 310.42,
+    "heard": "وكيف",
+    "similarity": 1.0
+  },
+  {
+    "word": "يمكن",
+    "paragraph": 32,
+    "start": 310.42,
+    "end": 310.84,
+    "heard": "يمكن",
+    "similarity": 1.0
+  },
+  {
+    "word": "للطمع",
+    "paragraph": 32,
+    "start": 310.84,
+    "end": 311.48,
+    "heard": "للطمع",
+    "similarity": 1.0
+  },
+  {
+    "word": "والثقة",
+    "paragraph": 32,
+    "start": 311.48,
+    "end": 312.14,
+    "heard": "والثقة",
+    "similarity": 1.0
+  },
+  {
+    "word": "العمياء",
+    "paragraph": 32,
+    "start": 312.14,
+    "end": 312.94,
+    "heard": "العمياء",
+    "similarity": 1.0
+  },
+  {
+    "word": "أن",
+    "paragraph": 32,
+    "start": 312.94,
+    "end": 313.48,
+    "heard": "أن",
+    "similarity": 1.0
+  },
+  {
+    "word": "يجعلا",
+    "paragraph": 32,
+    "start": 313.48,
+    "end": 313.92,
+    "heard": "يجعل",
+    "similarity": 0.889
+  },
+  {
+    "word": "الإنسان",
+    "paragraph": 32,
+    "start": 313.92,
+    "end": 314.64,
+    "heard": "الإنسان",
+    "similarity": 1.0
+  },
+  {
+    "word": "يصدق",
+    "paragraph": 32,
+    "start": 314.64,
+    "end": 315.38,
+    "heard": "يصدق",
+    "similarity": 1.0
+  },
+  {
+    "word": "أكثر",
+    "paragraph": 32,
+    "start": 315.38,
+    "end": 316.26,
+    "heard": "أكثر",
+    "similarity": 1.0
+  },
+  {
+    "word": "الأكاذيب",
+    "paragraph": 32,
+    "start": 316.26,
+    "end": 317.1,
+    "heard": "الأكاذي",
+    "similarity": 0.933
+  },
+  {
+    "word": "غرابة.",
+    "paragraph": 32,
+    "start": 317.1,
+    "end": 318.04,
+    "heard": "بغرابه",
+    "similarity": 0.909
+  },
+  {
+    "word": "فأحياناً،",
+    "paragraph": 33,
+    "start": 318.64,
+    "end": 319.32,
+    "heard": "فأحيانا",
+    "similarity": 1.0
+  },
+  {
+    "word": "لا",
+    "paragraph": 33,
+    "start": 319.32,
+    "end": 320.24,
+    "heard": "لا",
+    "similarity": 1.0
+  },
+  {
+    "word": "يحتاج",
+    "paragraph": 33,
+    "start": 320.24,
+    "end": 320.68,
+    "heard": "يحتاج",
+    "similarity": 1.0
+  },
+  {
+    "word": "المحتال",
+    "paragraph": 33,
+    "start": 320.68,
+    "end": 321.26,
+    "heard": "المحتال",
+    "similarity": 1.0
+  },
+  {
+    "word": "إلى",
+    "paragraph": 33,
+    "start": 321.26,
+    "end": 321.56,
+    "heard": "إلى",
+    "similarity": 1.0
+  },
+  {
+    "word": "سرقة",
+    "paragraph": 33,
+    "start": 321.56,
+    "end": 322.02,
+    "heard": "سرقة",
+    "similarity": 1.0
+  },
+  {
+    "word": "أموالك",
+    "paragraph": 33,
+    "start": 322.02,
+    "end": 322.7,
+    "heard": "أموالك",
+    "similarity": 1.0
+  },
+  {
+    "word": "بالقوة...",
+    "paragraph": 33,
+    "start": 322.7,
+    "end": 323.44,
+    "heard": "بالقوة",
+    "similarity": 1.0
+  },
+  {
+    "word": "بل",
+    "paragraph": 34,
+    "start": 323.44,
+    "end": 324.34,
+    "heard": "بل",
+    "similarity": 1.0
+  },
+  {
+    "word": "يكفي",
+    "paragraph": 34,
+    "start": 324.34,
+    "end": 324.76,
+    "heard": "يكفي",
+    "similarity": 1.0
+  },
+  {
+    "word": "أن",
+    "paragraph": 34,
+    "start": 324.76,
+    "end": 325.46,
+    "heard": "أن",
+    "similarity": 1.0
+  },
+  {
+    "word": "يجعلك",
+    "paragraph": 34,
+    "start": 325.46,
+    "end": 326.14,
+    "heard": "يجعلك",
+    "similarity": 1.0
+  },
+  {
+    "word": "تسلمه",
+    "paragraph": 34,
+    "start": 326.14,
+    "end": 326.84,
+    "heard": "تسلمه",
+    "similarity": 1.0
+  },
+  {
+    "word": "إياها،",
+    "paragraph": 34,
+    "start": 326.84,
+    "end": 327.76,
+    "heard": "إياها",
+    "similarity": 1.0
+  },
+  {
+    "word": "وأنت",
+    "paragraph": 34,
+    "start": 327.76,
+    "end": 328.32,
+    "heard": "وأن",
+    "similarity": 0.857
+  },
+  {
+    "word": "تظن",
+    "paragraph": 34,
+    "start": 328.32,
+    "end": 328.9,
+    "heard": "تتظن",
+    "similarity": 0.857
+  },
+  {
+    "word": "أنك",
+    "paragraph": 34,
+    "start": 328.9,
+    "end": 329.38,
+    "heard": "أنك",
+    "similarity": 1.0
+  },
+  {
+    "word": "تعقد",
+    "paragraph": 34,
+    "start": 329.38,
+    "end": 329.9,
+    "heard": "تعقد",
+    "similarity": 1.0
+  },
+  {
+    "word": "أفضل",
+    "paragraph": 34,
+    "start": 329.9,
+    "end": 330.62,
+    "heard": "أفضل",
+    "similarity": 1.0
+  },
+  {
+    "word": "صفقة",
+    "paragraph": 34,
+    "start": 330.62,
+    "end": 331.18,
+    "heard": "صفقة",
+    "similarity": 1.0
+  },
+  {
+    "word": "في",
+    "paragraph": 34,
+    "start": 331.18,
+    "end": 331.56,
+    "heard": "في",
+    "similarity": 1.0
+  },
+  {
+    "word": "حياتك!",
+    "paragraph": 34,
+    "start": 331.56,
+    "end": 332.3,
+    "heard": "حياتك",
+    "similarity": 1.0
+  }
+]
